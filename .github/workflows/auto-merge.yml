@@ -1,0 +1,39 @@
+name: auto-merge
+
+# Merges a PR once the "validate" workflow passes on it, but only if the repo owner
+# opened it, it is not a draft, it comes from a branch in this repo, and its
+# head is still the commit that was checked. Contributor and draft PRs (e.g.
+# the daily social packs) still wait for a manual merge.
+on:
+  workflow_run:
+    workflows: [validate]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    if: >-
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge if eligible
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          OWNER: ${{ github.repository_owner }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+          HEAD_BRANCH: ${{ github.event.workflow_run.head_branch }}
+        run: |
+          pr=$(gh pr list --head "$HEAD_BRANCH" --state open \
+            --json number,author,isDraft,isCrossRepository,headRefOid \
+            --jq "[.[] | select(.headRefOid == \"$HEAD_SHA\" and .author.login == \"$OWNER\"
+                    and (.isDraft | not) and (.isCrossRepository | not))][0].number // empty")
+          if [ -z "$pr" ]; then
+            echo "no eligible PR for $HEAD_BRANCH@${HEAD_SHA:0:7} (not ours, draft, fork, or new commits pushed)"
+            exit 0
+          fi
+          gh pr merge "$pr" --merge --delete-branch
