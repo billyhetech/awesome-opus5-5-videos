@@ -14,11 +14,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "videos.json"
+# Written by the collector (readme_assets.py): the animated mosaic at the top.
+README_META = ROOT / "data" / "readme.json"
+
+# Per category, the README shows this many highlights; the rest live on
+# clawshelf.com and in data/videos.json.
+HIGHLIGHTS_PER_CATEGORY = 12
+LATEST_COUNT = 30
 
 REPO_URL = "https://github.com/billyhetech/awesome-opus5-5-videos"
 SUBMIT_URL = REPO_URL + "/issues/new?template=submit-video.yml"
 HERO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
-CLAWSHELF_URL = "https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"
+CLAWSHELF_BASE = "https://clawshelf.com/ai-videos/opus-5-5"
+CLAWSHELF_UTM = "?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"
+CLAWSHELF_URL = CLAWSHELF_BASE + CLAWSHELF_UTM
 
 # Display label per model id (this list is Opus-only, but prompt files are
 # generated with the shared multi-model tooling).
@@ -96,7 +105,11 @@ STRINGS = {
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
         "hero_line": "📦 Every model in one list: [Awesome Viral AI Videos]({hero_url})",
-        "shelf_line": "💎 Browse and play every video on [clawshelf.com]({shelf_url})",
+        "mosaic_alt": "A wall of viral videos made with Opus 5.5: games, 3D scenes, explainers and motion graphics",
+        "watch_all": "**[▶ Watch all {n} videos on clawshelf.com]({url})**",
+        "highlights_note": "- The {k} most viewed per category are highlighted below; tap any video to watch it on clawshelf.com",
+        "see_all": "[▶ See all {n} on clawshelf.com]({url})",
+        "latest_heading": "Latest videos",
     },
     "zh": {
         "intro": (
@@ -131,7 +144,11 @@ STRINGS = {
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
         "hero_line": "📦 全模型总集:[Awesome Viral AI Videos]({hero_url})",
-        "shelf_line": "💎 在 [clawshelf.com]({shelf_url}) 上浏览和播放全部视频",
+        "mosaic_alt": "Opus 5.5 爆款视频墙:游戏、3D 场景、讲解动画、动态图形",
+        "watch_all": "**[▶ 在 clawshelf.com 观看全部 {n} 条视频]({url})**",
+        "highlights_note": "- 下方每个分类展示播放量最高的 {k} 条;点击视频即可在 clawshelf.com 观看",
+        "see_all": "[▶ 在 clawshelf.com 查看全部 {n} 条]({url})",
+        "latest_heading": "最新收录",
     },
 }
 
@@ -163,29 +180,53 @@ def has_prompt(entry):
     return bool(entry.get("prompt", "").strip())
 
 
+def detail_url(entry):
+    return f"{CLAWSHELF_BASE}/{entry.get('seo_slug') or entry['slug']}{CLAWSHELF_UTM}"
+
+
+def preview_image(entry):
+    """Animated webp, else the poster frame, else the legacy thumbnail."""
+    media = entry.get("media") or {}
+    if media.get("status") == "ok":
+        if media.get("preview_webp_url"):
+            return media["preview_webp_url"]
+        if media.get("poster_url"):
+            return media["poster_url"]
+    return (entry.get("thumbnail") or {}).get("url")
+
+
+def views(entry):
+    return (entry.get("stats_snapshot") or {}).get("views", 0)
+
+
+def highlight_rank(entry):
+    media = entry.get("media") or {}
+    return (bool(media.get("preview_webp_url")), bool(preview_image(entry)), views(entry))
+
+
 def cell(entry, lang):
     s = STRINGS[lang]
-    thumb = entry.get("thumbnail")
-    if thumb:
+    href = detail_url(entry)
+    img = preview_image(entry)
+    if img:
         top = (
-            f'<a href="{entry["post_url"]}"><img src="{thumb["url"]}" '
+            f'<a href="{href}"><img src="{img}" '
             f'alt="Opus 5.5 video by @{entry["author"]}" width="100%"></a>'
         )
     else:
-        top = f'<a href="{entry["post_url"]}"><b>{entry["title"]}</b></a>'
+        top = f'<a href="{href}"><b>{entry["title"]}</b></a>'
 
     link_label = s["prompt_link"] if has_prompt(entry) else s["details_link"]
     line2 = (
-        f'<a href="{entry["author_url"]}"><b>@{entry["author"]}</b></a> · '
+        f'<a href="{entry["post_url"]}"><b>@{entry["author"]}</b></a> · '
         f'<a href="prompts/{entry["slug"]}.md">{link_label}</a>'
     )
     if entry.get("verification", {}).get("rerun"):
         line2 += f' · {s["verified"]}'
 
     sub = tag_labels(entry)
-    views = entry.get("stats_snapshot", {}).get("views")
-    if views:
-        sub = (sub + " · " if sub else "") + fmt_views(views) + " views"
+    if views(entry):
+        sub = (sub + " · " if sub else "") + fmt_views(views(entry)) + " views"
 
     return f'<td width="33%" valign="top">{top}<br>{line2}<br><sub>{sub}</sub></td>'
 
@@ -197,12 +238,30 @@ def section(cat_slug, name, entries, lang):
         lines.append(s["empty_category"].format(submit_url=SUBMIT_URL))
         lines.append("")
         return "\n".join(lines)
-    entries = sorted(entries, key=lambda v: v.get("added", ""), reverse=True)
+    total = len(entries)
+    entries = sorted(entries, key=highlight_rank, reverse=True)[:HIGHLIGHTS_PER_CATEGORY]
     cells = [cell(v, lang) for v in entries]
     lines.append("<table>")
     for i in range(0, len(cells), 3):
         lines.append("<tr>" + "".join(cells[i : i + 3]) + "</tr>")
     lines.append("</table>")
+    lines.append("")
+    if total > len(entries):
+        lines.append(s["see_all"].format(n=total, url=f"{CLAWSHELF_BASE}{CLAWSHELF_UTM}&category={cat_slug}"))
+        lines.append("")
+    return "\n".join(lines)
+
+
+def latest(data, lang):
+    s = STRINGS[lang]
+    newest = sorted(data, key=lambda v: (v.get("added", ""), views(v)), reverse=True)[:LATEST_COUNT]
+    lines = [f'## {s["latest_heading"]}', ""]
+    for v in newest:
+        link_label = s["prompt_link"] if has_prompt(v) else s["details_link"]
+        lines.append(
+            f'- [{v["title"]}]({detail_url(v)}) — [@{v["author"]}]({v["post_url"]}) · '
+            f'[{link_label}](prompts/{v["slug"]}.md)'
+        )
     lines.append("")
     return "\n".join(lines)
 
@@ -217,6 +276,9 @@ def build(lang):
     for v in data:
         by_cat.setdefault(v["category"], []).append(v)
 
+    meta = json.loads(README_META.read_text(encoding="utf-8")) if README_META.exists() else {}
+    mosaic = meta.get("mosaic") or {}
+
     lines = [
         "<!-- AUTO-GENERATED by scripts/build_readme.py — edit data/videos.json instead, "
         "then run: python scripts/build_readme.py -->",
@@ -224,29 +286,44 @@ def build(lang):
         "",
         s["lang_switch"],
         "",
-        s["hero_line"].format(hero_url=HERO_URL),
-        "",
-        s["shelf_line"].format(shelf_url=CLAWSHELF_URL),
-        "",
+    ]
+    if mosaic.get("url"):
+        lines += [
+            f'<a href="{CLAWSHELF_URL}"><img src="{mosaic["url"]}" '
+            f'alt="{s["mosaic_alt"]}" width="100%"></a>',
+            "",
+        ]
+    lines += [
         s["intro"],
+        "",
+        s["watch_all"].format(n=len(data), url=CLAWSHELF_URL),
+        "",
+        s["hero_line"].format(hero_url=HERO_URL),
         "",
         s["stats_line"].format(n_prompts=n_prompts, submit_url=SUBMIT_URL),
         "",
     ]
 
     if data:
-        latest = max(v.get("added", "") for v in data)
-        lines += [s["latest_update"].format(date=latest, n=len(data)), ""]
+        latest_date = max(v.get("added", "") for v in data)
+        lines += [
+            s["latest_update"].format(date=latest_date, n=len(data)),
+            s["highlights_note"].format(k=HIGHLIGHTS_PER_CATEGORY),
+            "",
+        ]
 
     lines += [f'## {s["contents"]}', ""]
     for slug, en, zh in CATEGORIES:
         name = (en, zh)[name_idx - 1]
         lines.append(f"- [{name}](#{anchor(name)}) ({len(by_cat.get(slug, []))})")
+    lines.append(f'- [{s["latest_heading"]}](#{anchor(s["latest_heading"])})')
     lines.append("")
 
     for slug, en, zh in CATEGORIES:
         name = (en, zh)[name_idx - 1]
         lines.append(section(slug, name, by_cat.get(slug, []), lang))
+
+    lines.append(latest(data, lang))
 
     lines += [
         f'## {s["howto_heading"]}',
