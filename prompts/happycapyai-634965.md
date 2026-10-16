@@ -1,0 +1,17 @@
+# Opus 5.5 video by @happycapyai
+
+[Original post](https://x.com/happycapyai/status/2103057174855634965)
+
+- **Category:** Games & interactive
+- **Built with:** Three.js · Canvas · SVG · Playable
+- **Author:** [@happycapyai](https://x.com/happycapyai)
+
+## Prompt
+
+```text
+Opus 5.5 是要上天了吗？一段 prompt 一把帮我复刻了一个泡泡堂！简直是童年经典 💣
+
+无论是游戏机制还是游戏美学我觉得都是足以上架7k7k的程度，关键第一把测试的时候竟然输给了AI npc 🤣
+
+想玩的家人们可以评论告诉我
+```

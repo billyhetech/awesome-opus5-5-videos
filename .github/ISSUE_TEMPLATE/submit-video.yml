@@ -1,0 +1,43 @@
+name: Submit a video
+description: Suggest a Opus 5.5 code-rendered video for the list / 推荐一个 Opus 5.5 代码渲染视频
+labels: [submission]
+body:
+  - type: input
+    id: post_url
+    attributes:
+      label: Original post URL / 原帖链接
+      description: Link to the X (Twitter) post with the video
+      placeholder: https://x.com/<user>/status/<id>
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Video title / 视频标题
+      description: Short English title for the entry
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category / 分类
+      options:
+        - motion
+        - explainer
+        - 3d-scenes
+        - games-interactive
+        - long-form
+        - music-videos
+    validations:
+      required: true
+  - type: input
+    id: tech_tags
+    attributes:
+      label: Tech tags / 技术标签
+      description: "Comma separated: canvas, svg, threejs, glsl, gsap, css, webgl, web-audio, particles, pixel-art, playable, ai-image, physics"
+      placeholder: canvas, threejs
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt text / Prompt 文本
+      description: Only what the creator publicly shared in their post or replies. 仅填写作者公开发布的内容。

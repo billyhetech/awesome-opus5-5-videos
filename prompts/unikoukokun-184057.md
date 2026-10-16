@@ -1,0 +1,9 @@
+# Opus 5.5 video by @unikoukokun
+
+[Original post](https://x.com/unikoukokun/status/2102991418860184057)
+
+- **Category:** Motion graphics
+- **Built with:** Canvas
+- **Author:** [@unikoukokun](https://x.com/unikoukokun)
+
+> The author didn't publish a prompt for this one. Watch the original post linked above.

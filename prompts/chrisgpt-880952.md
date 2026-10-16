@@ -1,0 +1,9 @@
+# Opus 5.5 video by @ChrisGPT
+
+[Original post](https://x.com/ChrisGPT/status/2103561098930880952)
+
+- **Category:** Games & interactive
+- **Built with:** Canvas
+- **Author:** [@ChrisGPT](https://x.com/ChrisGPT)
+
+> The author didn't publish a prompt for this one. Watch the original post linked above.

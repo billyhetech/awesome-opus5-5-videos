@@ -1,0 +1,2 @@
+# All scripts run on the Python standard library only — nothing to install.
+# This file exists so CI has a stable place to add deps if that ever changes.

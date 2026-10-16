@@ -1,0 +1,28 @@
+name: Takedown / change request
+description: Request removal or change of an entry / 申请移除或修改条目(72 小时内处理,无需理由)
+labels: [takedown]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry slug or URL / 条目 slug 或链接
+      description: e.g. imjustnewatai-168580, or a link to the prompt file / README entry
+    validations:
+      required: true
+  - type: textarea
+    id: identity
+    attributes:
+      label: Who are you? / 你的身份
+      description: State your relationship to the work (e.g. "I am @handle, the author"). No justification needed. 说明你与作品的关系即可,无需其他理由。
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: Requested action / 请求的操作
+      options:
+        - Remove the entry entirely / 完全移除
+        - Remove the prompt text only / 仅移除 prompt 文本
+        - Change something else / 其他修改
+    validations:
+      required: true
