@@ -25,6 +25,13 @@ LATEST_COUNT = 30
 REPO_URL = "https://github.com/billyhetech/awesome-opus5-5-videos"
 SUBMIT_URL = REPO_URL + "/issues/new?template=submit-video.yml"
 HERO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
+# Every single-model list, largest first; this repo is left out of its own line.
+SIBLINGS = [
+    ("Opus 5.5", "https://github.com/billyhetech/awesome-opus5-5-videos"),
+    ("Gemini 4 Argon", "https://github.com/billyhetech/awesome-gemini4-argon-videos"),
+    ("Fable 5.5", "https://github.com/billyhetech/awesome-fable5-5-videos"),
+    ("GPT-6 Astra", "https://github.com/billyhetech/awesome-gpt6-astra-videos"),
+]
 CLAWSHELF_BASE = "https://clawshelf.com/ai-videos/opus-5-5"
 CLAWSHELF_UTM = "?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"
 CLAWSHELF_URL = CLAWSHELF_BASE + CLAWSHELF_UTM
@@ -105,6 +112,11 @@ STRINGS = {
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
         "hero_line": "📦 Every model in one list: [Awesome Viral AI Videos]({hero_url})",
+        "siblings_line": "Other single-model lists: {links}",
+        "stats_no_prompts": (
+            "Every entry links to the creator's original post · "
+            "[submit a video]({submit_url})"
+        ),
         "mosaic_alt": "A wall of viral videos made with Opus 5.5: games, 3D scenes, explainers and motion graphics",
         "watch_all": "**[▶ Watch all {n} videos on clawshelf.com]({url})**",
         "highlights_note": "- The {k} most viewed per category are highlighted below; tap any video to watch it on clawshelf.com",
@@ -144,6 +156,8 @@ STRINGS = {
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
         "hero_line": "📦 全模型总集:[Awesome Viral AI Videos]({hero_url})",
+        "siblings_line": "其他单模型专集:{links}",
+        "stats_no_prompts": "每个条目均链接原帖并署名 · [提交视频]({submit_url})",
         "mosaic_alt": "Opus 5.5 爆款视频墙:游戏、3D 场景、讲解动画、动态图形",
         "watch_all": "**[▶ 在 clawshelf.com 观看全部 {n} 条视频]({url})**",
         "highlights_note": "- 下方每个分类展示播放量最高的 {k} 条;点击视频即可在 clawshelf.com 观看",
@@ -300,7 +314,11 @@ def build(lang):
         "",
         s["hero_line"].format(hero_url=HERO_URL),
         "",
-        s["stats_line"].format(n_prompts=n_prompts, submit_url=SUBMIT_URL),
+        s["siblings_line"].format(links=" · ".join(
+            f"[{name}]({url})" for name, url in SIBLINGS if url != REPO_URL)),
+        "",
+        (s["stats_line"] if n_prompts else s["stats_no_prompts"]).format(
+            n_prompts=n_prompts, submit_url=SUBMIT_URL),
         "",
     ]
 
