@@ -2,7 +2,7 @@ name: build-readme
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - "data/videos.json"
 
