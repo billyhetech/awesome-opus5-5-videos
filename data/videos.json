@@ -67924,5 +67924,871 @@
    "bytes": 14988165,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "enes-code-061472",
+  "seo_slug": "tesla-roadster-flight-explainer-animation",
+  "model": "opus-5.5",
+  "author": "enes_code",
+  "author_url": "https://x.com/enes_code",
+  "post_url": "https://x.com/enes_code/status/2110941423680061472",
+  "title": "Tesla Roadster flight explainer animation",
+  "category": "explainer",
+  "tech_tags": [
+   "elevenlabs",
+   "threejs",
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 2480529,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "kevin-t-ngo-546297",
+  "seo_slug": "apple-homeview-mock-commercial",
+  "model": "opus-5.5",
+  "author": "kevin_t_ngo",
+  "author_url": "https://x.com/kevin_t_ngo",
+  "post_url": "https://x.com/kevin_t_ngo/status/2110722582689546297",
+  "title": "Apple HomeView mock commercial",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 571593,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "eguri89-378913",
+  "seo_slug": "video-sampler-tool-demo",
+  "model": "opus-5.5",
+  "author": "eguri89",
+  "author_url": "https://x.com/eguri89",
+  "post_url": "https://x.com/eguri89/status/2110703030660378913",
+  "title": "Video sampler tool demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 137859,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "flxrnc-654630",
+  "seo_slug": "motion-design-pdf-playbook",
+  "model": "opus-5.5",
+  "author": "flxrnc",
+  "author_url": "https://x.com/flxrnc",
+  "post_url": "https://x.com/flxrnc/status/2110726928315654630",
+  "title": "Motion design made from PDF playbook",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 134771,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "xiaohu-107485",
+  "seo_slug": "channel-building-video-skill-demo",
+  "model": "opus-5.5",
+  "author": "xiaohu",
+  "author_url": "https://x.com/xiaohu",
+  "post_url": "https://x.com/xiaohu/status/2110729141289107485",
+  "title": "Channel-building video skill demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 115907,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "0xmovez-457935",
+  "seo_slug": "anatomy-reveal-motion-design-skill-demo",
+  "model": "opus-5.5",
+  "author": "0xMovez",
+  "author_url": "https://x.com/0xMovez",
+  "post_url": "https://x.com/0xMovez/status/2110735931401457935",
+  "title": "Anatomy reveal motion design skill demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 73970,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "whydeso-394405",
+  "seo_slug": "claude-vs-gemini-roast-battle",
+  "model": "opus-5.5",
+  "author": "whydeso",
+  "author_url": "https://x.com/whydeso",
+  "post_url": "https://x.com/whydeso/status/2110649723497394405",
+  "title": "Claude vs Gemini roast battle",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 60117,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "kinderlayer-922355",
+  "seo_slug": "ai-video-generation-comparison-shark-warship",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2110769568540922355",
+  "title": "AI video generation comparison, shark and warship clips",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 47318,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "chuckyc-537364",
+  "seo_slug": "open-world-earth-scale-game-engine",
+  "model": "opus-5.5",
+  "author": "_chuckyc",
+  "author_url": "https://x.com/_chuckyc",
+  "post_url": "https://x.com/_chuckyc/status/2110779144191537364",
+  "title": "Open-world earth-scale game engine demo",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 44947,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "m-houser-803516",
+  "seo_slug": "browser-mmo-game-aestra-gameplay",
+  "model": "opus-5.5",
+  "author": "M__Houser",
+  "author_url": "https://x.com/M__Houser",
+  "post_url": "https://x.com/M__Houser/status/2110750857528803516",
+  "title": "Browser MMO game Aestra gameplay",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 42301,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "shion-takk-369573",
+  "seo_slug": "fictional-study-room-interior-blender",
+  "model": "opus-5.5",
+  "author": "shion_takk",
+  "author_url": "https://x.com/shion_takk",
+  "post_url": "https://x.com/shion_takk/status/2110896887096369573",
+  "title": "Fictional study room interior in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 39996,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "lexnlin-956870",
+  "seo_slug": "golden-hour-japanese-temple-3d-scene",
+  "model": "opus-5.5",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2110657641831956870",
+  "title": "Golden hour Japanese temple 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 39383,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "0xrhinox-502048",
+  "seo_slug": "jelly-rubiks-cube-ai-model-comparison",
+  "model": "opus-5.5",
+  "author": "0xRhinoX",
+  "author_url": "https://x.com/0xRhinoX",
+  "post_url": "https://x.com/0xRhinoX/status/2110799218734502048",
+  "title": "Jelly Rubik's cube AI model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 37844,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "semichenkko-055904",
+  "seo_slug": "jelly-pumpkin-render-comparison",
+  "model": "opus-5.5",
+  "author": "semichenkko",
+  "author_url": "https://x.com/semichenkko",
+  "post_url": "https://x.com/semichenkko/status/2110746878040055904",
+  "title": "Jelly pumpkin render comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 36540,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "suoha-ai-453572",
+  "seo_slug": "3d-dragon-ball-story-game-remake",
+  "model": "opus-5.5",
+  "author": "SUOHA_AI",
+  "author_url": "https://x.com/SUOHA_AI",
+  "post_url": "https://x.com/SUOHA_AI/status/2110713533193453572",
+  "title": "3D Dragon Ball story game remake",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 34595,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "kanaworks-ai-762335",
+  "seo_slug": "3d-sandbox-game-models",
+  "model": "opus-5.5",
+  "author": "KanaWorks_AI",
+  "author_url": "https://x.com/KanaWorks_AI",
+  "post_url": "https://x.com/KanaWorks_AI/status/2110638868202762335",
+  "title": "3D sandbox game with generated models",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 33836,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "sarpstar-288825",
+  "seo_slug": "code-personal-style-video",
+  "model": "opus-5.5",
+  "author": "sarpstar",
+  "author_url": "https://x.com/sarpstar",
+  "post_url": "https://x.com/sarpstar/status/2110741762159288825",
+  "title": "Code-generated personal style video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 27688,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "algekalipso-785351",
+  "seo_slug": "lighthouse-illumination-proof-animation",
+  "model": "opus-5.5",
+  "author": "algekalipso",
+  "author_url": "https://x.com/algekalipso",
+  "post_url": "https://x.com/algekalipso/status/2110658162214785351",
+  "title": "Lighthouse illumination proof animation",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 27065,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "agaviriau-846207",
+  "seo_slug": "football-history-mini-documentary",
+  "model": "opus-5.5",
+  "author": "agaviriau",
+  "author_url": "https://x.com/agaviriau",
+  "post_url": "https://x.com/agaviriau/status/2110798126453846207",
+  "title": "Football history mini-documentary",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 25895,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "aicreataro-749146",
+  "seo_slug": "night-phone-booth-3d-text-motion",
+  "model": "opus-5.5",
+  "author": "aicreataro",
+  "author_url": "https://x.com/aicreataro",
+  "post_url": "https://x.com/aicreataro/status/2110689292737749146",
+  "title": "Night phone booth 3D text motion story",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 25630,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "seeconvm-527568",
+  "seo_slug": "keyboard-typing-animation-without-keyframes",
+  "model": "opus-5.5",
+  "author": "seeconvm",
+  "author_url": "https://x.com/seeconvm",
+  "post_url": "https://x.com/seeconvm/status/2110770664101527568",
+  "title": "Keyboard typing animation without keyframes",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 23632,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "julianleiss-149925",
+  "seo_slug": "borges-chess-story-mood-piece",
+  "model": "opus-5.5",
+  "author": "julianleiss",
+  "author_url": "https://x.com/julianleiss",
+  "post_url": "https://x.com/julianleiss/status/2110868325052149925",
+  "title": "Borges chess story mood piece",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 22802,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "vib3coded-268915",
+  "seo_slug": "interactive-3d-jelly-orange-browser",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2110665495221268915",
+  "title": "Interactive 3D jelly orange in browser",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 20869,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "simonasltu1-003777",
+  "seo_slug": "picasso-style-three-js-tetris-game",
+  "model": "opus-5.5",
+  "author": "SimonasLTU1",
+  "author_url": "https://x.com/SimonasLTU1",
+  "post_url": "https://x.com/SimonasLTU1/status/2110665151389003777",
+  "title": "Picasso-style Three.js Tetris game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 13837,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "nik-akki-764628",
+  "seo_slug": "minecraft-house-llama-comparison",
+  "model": "opus-5.5",
+  "author": "nik_akki",
+  "author_url": "https://x.com/nik_akki",
+  "post_url": "https://x.com/nik_akki/status/2110807768550764628",
+  "title": "Minecraft house and llama build comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 13507,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "anthrupad-527596",
+  "seo_slug": "full-ai-music-animation-piece",
+  "model": "opus-5.5",
+  "author": "anthrupad",
+  "author_url": "https://x.com/anthrupad",
+  "post_url": "https://x.com/anthrupad/status/2110950344272527596",
+  "title": "Full AI-made music and animation piece",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 12435,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "maxt3chno-371226",
+  "seo_slug": "browser-sky-cloud-rendering-project",
+  "model": "opus-5.5",
+  "author": "maxt3chno",
+  "author_url": "https://x.com/maxt3chno",
+  "post_url": "https://x.com/maxt3chno/status/2110832228775371226",
+  "title": "Browser sky and cloud rendering project",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 11508,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "anxuanng-605912",
+  "seo_slug": "playable-chip-fab-strategy-simulation",
+  "model": "opus-5.5",
+  "author": "anxuanng",
+  "author_url": "https://x.com/anxuanng",
+  "post_url": "https://x.com/anxuanng/status/2110816730163605912",
+  "title": "Playable chip fab strategy simulation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender",
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 11458,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "chetaslua-933115",
+  "seo_slug": "claude-opus-5-5-video-editing-vfx",
+  "model": "opus-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2110630223284933115",
+  "title": "Claude Opus 5.5 video editing and VFX test",
+  "category": "motion",
+  "tech_tags": [
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 10186,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "jumperz-718884",
+  "seo_slug": "3d-arena-combat-game",
+  "model": "opus-5.5",
+  "author": "jumperz",
+  "author_url": "https://x.com/jumperz",
+  "post_url": "https://x.com/jumperz/status/2110696310340718884",
+  "title": "3D arena combat game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 9833,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "anxuanng-079978",
+  "seo_slug": "stormy-lighthouse-scene-model-comparison",
+  "model": "opus-5.5",
+  "author": "anxuanng",
+  "author_url": "https://x.com/anxuanng",
+  "post_url": "https://x.com/anxuanng/status/2110819776281079978",
+  "title": "Stormy lighthouse scene model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 9588,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "alexcooldev-729651",
+  "seo_slug": "business-tycoon-management-game",
+  "model": "opus-5.5",
+  "author": "alexcooldev",
+  "author_url": "https://x.com/alexcooldev",
+  "post_url": "https://x.com/alexcooldev/status/2110742093404729651",
+  "title": "Business tycoon management game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 9466,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "envoldev-571945",
+  "seo_slug": "space-train-scene-model-comparison",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2110795590858571945",
+  "title": "Space train scene model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 8523,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "rork-310311",
+  "seo_slug": "animated-eagle-finance-assistant-demo",
+  "model": "opus-5.5",
+  "author": "rork",
+  "author_url": "https://x.com/rork",
+  "post_url": "https://x.com/rork/status/2110788460596310311",
+  "title": "Animated eagle finance assistant demo",
+  "category": "motion",
+  "tech_tags": [
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 8288,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "anxuanng-264126",
+  "seo_slug": "playable-air-traffic-control-simulation",
+  "model": "opus-5.5",
+  "author": "anxuanng",
+  "author_url": "https://x.com/anxuanng",
+  "post_url": "https://x.com/anxuanng/status/2110801686923264126",
+  "title": "Playable air traffic control simulation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender",
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 7917,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "hakimieiqbal-341225",
+  "seo_slug": "open-world-rpg-prototype",
+  "model": "opus-5.5",
+  "author": "hakimieiqbal",
+  "author_url": "https://x.com/hakimieiqbal",
+  "post_url": "https://x.com/hakimieiqbal/status/2110704086299341225",
+  "title": "Open-world RPG prototype",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 7865,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "trymirage-007314",
+  "seo_slug": "recreated-motion-graphic-effect",
+  "model": "opus-5.5",
+  "author": "trymirage",
+  "author_url": "https://x.com/trymirage",
+  "post_url": "https://x.com/trymirage/status/2110845066747007314",
+  "title": "Recreated motion graphic effect",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 7786,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "hagihide-660316",
+  "seo_slug": "md-style-power-drift-remake-tuning",
+  "model": "opus-5.5",
+  "author": "hagihide",
+  "author_url": "https://x.com/hagihide",
+  "post_url": "https://x.com/hagihide/status/2110702464198660316",
+  "title": "MD-style Power Drift remake tuning",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 7651,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "tanabe-fragm-540979",
+  "seo_slug": "paper-collage-momotaro-animation",
+  "model": "opus-5.5",
+  "author": "tanabe_fragm",
+  "author_url": "https://x.com/tanabe_fragm",
+  "post_url": "https://x.com/tanabe_fragm/status/2110931024469540979",
+  "title": "Paper collage Momotaro animation",
+  "category": "motion",
+  "tech_tags": [
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 7371,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "typingmindapp-031495",
+  "seo_slug": "crystal-butterfly-glass-material-model-comparison",
+  "model": "opus-5.5",
+  "author": "TypingMindApp",
+  "author_url": "https://x.com/TypingMindApp",
+  "post_url": "https://x.com/TypingMindApp/status/2110729405400031495",
+  "title": "Crystal butterfly glass material model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 7325,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "abhinavxj-867426",
+  "seo_slug": "website-destruction-browser-toy",
+  "model": "opus-5.5",
+  "author": "AbhinavXJ",
+  "author_url": "https://x.com/AbhinavXJ",
+  "post_url": "https://x.com/AbhinavXJ/status/2110632478985867426",
+  "title": "Website destruction browser toy",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 6357,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "konstantinsaifo-716906",
+  "seo_slug": "autonomous-electric-motor-factory-3d-scene",
+  "model": "opus-5.5",
+  "author": "konstantinsaifo",
+  "author_url": "https://x.com/konstantinsaifo",
+  "post_url": "https://x.com/konstantinsaifo/status/2110757897600716906",
+  "title": "Autonomous electric motor factory 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 6036,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "walkeramerica-727875",
+  "seo_slug": "making-video-carla-botcoin-music-video",
+  "model": "opus-5.5",
+  "author": "WalkerAmerica",
+  "author_url": "https://x.com/WalkerAmerica",
+  "post_url": "https://x.com/WalkerAmerica/status/2110825075729727875",
+  "title": "Making-of video for Carla Botcoin music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 5859,
+   "captured_at": "2026-10-17"
+  }
  }
 ]
