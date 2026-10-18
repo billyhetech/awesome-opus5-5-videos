@@ -69306,5 +69306,848 @@
    "bytes": 7679596,
    "synced_at": "2026-10-17"
   }
+ },
+ {
+  "slug": "xikhar-258080",
+  "seo_slug": "unreal-engine-game-world",
+  "model": "opus-5.5",
+  "author": "xikhar",
+  "author_url": "https://x.com/xikhar",
+  "post_url": "https://x.com/xikhar/status/2111290504491258080",
+  "title": "Unreal Engine game world build",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 129753,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "belbizaz-254842",
+  "seo_slug": "frog-king-simulator-claude",
+  "model": "opus-5.5",
+  "author": "Belbizaz",
+  "author_url": "https://x.com/Belbizaz",
+  "post_url": "https://x.com/Belbizaz/status/2111120760660254842",
+  "title": "Frog King Simulator built with Claude",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 127871,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "envoldev-048620",
+  "seo_slug": "model-comparison-video-generation",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2111175666398048620",
+  "title": "Model comparison video generation",
+  "category": "motion",
+  "tech_tags": [
+   "threejs",
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 123614,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "aimind-ai-336244",
+  "seo_slug": "eiffel-tower-compared-across-models",
+  "model": "opus-5.5",
+  "author": "AIMind_Ai",
+  "author_url": "https://x.com/AIMind_Ai",
+  "post_url": "https://x.com/AIMind_Ai/status/2111058514311336244",
+  "title": "Eiffel Tower build compared across models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 79487,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "klattkev-375117",
+  "seo_slug": "detailed-3d-car-scene",
+  "model": "opus-5.5",
+  "author": "klattkev",
+  "author_url": "https://x.com/klattkev",
+  "post_url": "https://x.com/klattkev/status/2111189894517375117",
+  "title": "Detailed 3D car scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 46715,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "tuolaji2024-685842",
+  "seo_slug": "tesla-roadster-flying-animation",
+  "model": "opus-5.5",
+  "author": "tuolaji2024",
+  "author_url": "https://x.com/tuolaji2024",
+  "post_url": "https://x.com/tuolaji2024/status/2110987175009685842",
+  "title": "Tesla Roadster flying animation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 42647,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "azukichan-ai-621694",
+  "seo_slug": "ai-directed-music-video",
+  "model": "opus-5.5",
+  "author": "azukichan_ai_",
+  "author_url": "https://x.com/azukichan_ai_",
+  "post_url": "https://x.com/azukichan_ai_/status/2111324712500621694",
+  "title": "AI-directed music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 42208,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "devteamdrew-745058",
+  "seo_slug": "parody-tesla-roadster-demo-animation",
+  "model": "opus-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2111235450035745058",
+  "title": "Parody Tesla Roadster demo animation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 38148,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "driftauz-763570",
+  "seo_slug": "animated-clip",
+  "model": "opus-5.5",
+  "author": "driftauz",
+  "author_url": "https://x.com/driftauz",
+  "post_url": "https://x.com/driftauz/status/2111109055955763570",
+  "title": "Generated animated clip",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 37539,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "daphnerhansell-986368",
+  "seo_slug": "can-give-10",
+  "model": "opus-5.5",
+  "author": "DaphneRHansell",
+  "author_url": "https://x.com/DaphneRHansell",
+  "post_url": "https://x.com/DaphneRHansell/status/2111106459408986368",
+  "title": "Can I give you 10% of me?",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 28793,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "lexnlin-594043",
+  "seo_slug": "3d-browser-game-world-iteration",
+  "model": "opus-5.5",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2111181126144594043",
+  "title": "3D browser game world iteration",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 24463,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "mnilax-040640",
+  "seo_slug": "fishing-minigame-added-farm-game",
+  "model": "opus-5.5",
+  "author": "Mnilax",
+  "author_url": "https://x.com/Mnilax",
+  "post_url": "https://x.com/Mnilax/status/2111139309206040640",
+  "title": "Fishing minigame added to farm game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 22825,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "haileyailabs-825394",
+  "seo_slug": "illustrated-storybook-animation-narration",
+  "model": "opus-5.5",
+  "author": "HaileyAILabs",
+  "author_url": "https://x.com/HaileyAILabs",
+  "post_url": "https://x.com/HaileyAILabs/status/2110975805899825394",
+  "title": "Illustrated storybook animation with narration",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 20444,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "ozansihay-171231",
+  "seo_slug": "tesla-roadster-promo-video",
+  "model": "opus-5.5",
+  "author": "ozansihay",
+  "author_url": "https://x.com/ozansihay",
+  "post_url": "https://x.com/ozansihay/status/2111333150018171231",
+  "title": "Tesla Roadster promo video",
+  "category": "motion",
+  "tech_tags": [
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 19500,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "aimevzulari-559063",
+  "seo_slug": "animated-lyric-video-mp3-song",
+  "model": "opus-5.5",
+  "author": "AIMevzulari",
+  "author_url": "https://x.com/AIMevzulari",
+  "post_url": "https://x.com/AIMevzulari/status/2110989121682559063",
+  "title": "Animated lyric video generated from an mp3 song",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 18468,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "rileybrown-445438",
+  "seo_slug": "blender-stress-test-animation",
+  "model": "opus-5.5",
+  "author": "rileybrown",
+  "author_url": "https://x.com/rileybrown",
+  "post_url": "https://x.com/rileybrown/status/2111285052617445438",
+  "title": "Blender stress test animation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 18229,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "ai-growth-avii-165033",
+  "seo_slug": "roblox-game-shop-pets-cash-systems",
+  "model": "opus-5.5",
+  "author": "ai_growth_avii",
+  "author_url": "https://x.com/ai_growth_avii",
+  "post_url": "https://x.com/ai_growth_avii/status/2111118746786165033",
+  "title": "Roblox game with shop, pets and cash systems",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 17331,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "dilumsanjaya-626801",
+  "seo_slug": "shape-shifting-harvester-robot-concept",
+  "model": "opus-5.5",
+  "author": "DilumSanjaya",
+  "author_url": "https://x.com/DilumSanjaya",
+  "post_url": "https://x.com/DilumSanjaya/status/2111138912349626801",
+  "title": "Shape-shifting harvester robot concept",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 16555,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "aimikoda-406443",
+  "seo_slug": "supper-run-animated-short-color-grading",
+  "model": "opus-5.5",
+  "author": "aimikoda",
+  "author_url": "https://x.com/aimikoda",
+  "post_url": "https://x.com/aimikoda/status/2111256122040406443",
+  "title": "Supper Run animated short with color grading",
+  "category": "motion",
+  "tech_tags": [
+   "python",
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 15917,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "gorden-sun-053953",
+  "seo_slug": "skit-overseas-ai-attitudes-toward-chinese",
+  "model": "opus-5.5",
+  "author": "Gorden_Sun",
+  "author_url": "https://x.com/Gorden_Sun",
+  "post_url": "https://x.com/Gorden_Sun/status/2111111416120053953",
+  "title": "Skit about overseas AI attitudes toward Chinese users",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 15623,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "maxblade-059422",
+  "seo_slug": "kong-royale-multiplayer-battle-royale",
+  "model": "opus-5.5",
+  "author": "_MaxBlade",
+  "author_url": "https://x.com/_MaxBlade",
+  "post_url": "https://x.com/_MaxBlade/status/2111164202891059422",
+  "title": "Kong Royale multiplayer battle royale",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 14008,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "parhelion318-548058",
+  "seo_slug": "exit-8-style-vegan-cafe-loop",
+  "model": "opus-5.5",
+  "author": "parhelion318",
+  "author_url": "https://x.com/parhelion318",
+  "post_url": "https://x.com/parhelion318/status/2111128415319548058",
+  "title": "Exit 8-style vegan cafe loop game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 13368,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "devteamdrew-690324",
+  "seo_slug": "art-photosynthesis-explainer",
+  "model": "opus-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2111172786286690324",
+  "title": "The Art of Photosynthesis explainer",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 13219,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "rewind02-409811",
+  "seo_slug": "ghost-hunting-game-unreal-engine-5",
+  "model": "opus-5.5",
+  "author": "rewind02",
+  "author_url": "https://x.com/rewind02",
+  "post_url": "https://x.com/rewind02/status/2111034892750409811",
+  "title": "Ghost-hunting game built in Unreal Engine 5",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 12170,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "condzxyz-527601",
+  "seo_slug": "automated-content-video-edit",
+  "model": "opus-5.5",
+  "author": "condzxyz",
+  "author_url": "https://x.com/condzxyz",
+  "post_url": "https://x.com/condzxyz/status/2110068531941527601",
+  "title": "Automated content video edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 11909,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "envoldev-352298",
+  "seo_slug": "opus-5-5-vs-gpt-6-astra-by-envoldev",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2111115013398352298",
+  "title": "Opus 5.5 vs GPT-6 Astra background generation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 10663,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "ai-screening-548122",
+  "seo_slug": "three-js-scene-across-three-models",
+  "model": "opus-5.5",
+  "author": "AI_Screening",
+  "author_url": "https://x.com/AI_Screening",
+  "post_url": "https://x.com/AI_Screening/status/2111112282583548122",
+  "title": "Three.js scene across three models",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 9984,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "stxrmye-642204",
+  "seo_slug": "agent-driven-video-edit-custom-sfx",
+  "model": "opus-5.5",
+  "author": "stxrmye",
+  "author_url": "https://x.com/stxrmye",
+  "post_url": "https://x.com/stxrmye/status/2110190072628642204",
+  "title": "Agent-driven video edit with custom SFX skill",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 9646,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "tripoai-803222",
+  "seo_slug": "deer-forest-interactive-scene",
+  "model": "opus-5.5",
+  "author": "tripoai",
+  "author_url": "https://x.com/tripoai",
+  "post_url": "https://x.com/tripoai/status/2111109914055803222",
+  "title": "Deer forest interactive scene",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 9621,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "cgnot996-966766",
+  "seo_slug": "music-video-cut-one-image-one",
+  "model": "opus-5.5",
+  "author": "cgnot996",
+  "author_url": "https://x.com/cgnot996",
+  "post_url": "https://x.com/cgnot996/status/2110982632854966766",
+  "title": "Music video cut from one image and one mp3",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 9277,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "vib3coded-896392",
+  "seo_slug": "japanese-shrine-scene-comparison",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2110014604524896392",
+  "title": "Japanese shrine scene comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 8753,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "vib3coded-971770",
+  "seo_slug": "plush-pigeon-soft-body-squish-toy",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2111106285126971770",
+  "title": "Plush pigeon soft-body squish toy",
+  "category": "motion",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 8601,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "aicreataro-540394",
+  "seo_slug": "excel-stop-motion-animation-blender",
+  "model": "opus-5.5",
+  "author": "aicreataro",
+  "author_url": "https://x.com/aicreataro",
+  "post_url": "https://x.com/aicreataro/status/2109892378383540394",
+  "title": "Excel stop-motion animation with Blender",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 8516,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "chroman-020920",
+  "seo_slug": "unity-dolby-atmos-visualizer",
+  "model": "opus-5.5",
+  "author": "chroman",
+  "author_url": "https://x.com/chroman",
+  "post_url": "https://x.com/chroman/status/2109778453625020920",
+  "title": "Unity Dolby Atmos visualizer",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 8505,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "luckeyfaraday-412934",
+  "seo_slug": "battlefront-ii-reconstructed-browser",
+  "model": "opus-5.5",
+  "author": "luckeyfaraday",
+  "author_url": "https://x.com/luckeyfaraday",
+  "post_url": "https://x.com/luckeyfaraday/status/2111276874064412934",
+  "title": "Battlefront II reconstructed in the browser",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 8413,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "xmihura-190801",
+  "seo_slug": "hyprland-desktop-theme-customization",
+  "model": "opus-5.5",
+  "author": "XMihura",
+  "author_url": "https://x.com/XMihura",
+  "post_url": "https://x.com/XMihura/status/2109991235545190801",
+  "title": "Hyprland desktop theme customization",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 8064,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "mi7-crypto-285170",
+  "seo_slug": "nurse-riot-ai-music-video",
+  "model": "opus-5.5",
+  "author": "mi7_crypto",
+  "author_url": "https://x.com/mi7_crypto",
+  "post_url": "https://x.com/mi7_crypto/status/2109834099217285170",
+  "title": "NURSE RIOT AI music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 6811,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "fakharkamario-599861",
+  "seo_slug": "short-animation",
+  "model": "opus-5.5",
+  "author": "fakharkamario",
+  "author_url": "https://x.com/fakharkamario",
+  "post_url": "https://x.com/fakharkamario/status/2110218646689599861",
+  "title": "Short animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 5640,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "joshdaws-304334",
+  "seo_slug": "2007-film-trailer-re-edited-claude",
+  "model": "opus-5.5",
+  "author": "JoshDaws",
+  "author_url": "https://x.com/JoshDaws",
+  "post_url": "https://x.com/JoshDaws/status/2109982871209304334",
+  "title": "2007 film trailer re-edited with Claude Opus",
+  "category": "motion",
+  "tech_tags": [
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 5414,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "learnwithsubhan-052913",
+  "seo_slug": "gamified-warehouse-management-software",
+  "model": "opus-5.5",
+  "author": "LearnWithSubhan",
+  "author_url": "https://x.com/LearnWithSubhan",
+  "post_url": "https://x.com/LearnWithSubhan/status/2110235247745052913",
+  "title": "Gamified warehouse management software",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 5089,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "techartist-370028",
+  "seo_slug": "explorable-3d-nature-world-sound-opus",
+  "model": "opus-5.5",
+  "author": "techartist_",
+  "author_url": "https://x.com/techartist_",
+  "post_url": "https://x.com/techartist_/status/2111187771440370028",
+  "title": "Explorable 3D nature world with sound by Opus 5.5",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 5008,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "madariyanhadi-000494",
+  "seo_slug": "video-editing-experiment",
+  "model": "opus-5.5",
+  "author": "Madariyanhadi",
+  "author_url": "https://x.com/Madariyanhadi",
+  "post_url": "https://x.com/Madariyanhadi/status/2111004303075000494",
+  "title": "Video editing experiment",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 5003,
+   "captured_at": "2026-10-18"
+  }
  }
 ]
