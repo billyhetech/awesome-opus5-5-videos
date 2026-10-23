@@ -17,7 +17,7 @@ Thanks for helping grow the list!
 
 - **Every entry credits the creator and links the original post.** That's the whole point of the list.
 - **Prompt text: only what the creator publicly shared.** If the post only describes the video, paste that description and mark `prompt_partial: true`. Don't paste private or leaked prompts.
-- `README.md` and `README.zh-CN.md` are auto-generated — never edit them directly. Edit `data/videos.json`, then run `python scripts/build_readme.py`.
+- `README.md` and `README.zh-CN.md` are generated from `data/videos.json` — never edit them directly. Edit `data/videos.json`, then run `python scripts/build_readme.py`.
 - Before pushing: `python scripts/validate.py && python scripts/build_readme.py --check` (CI runs the same).
 
 ### Entry format
@@ -33,13 +33,13 @@ Thanks for helping grow the list!
 ### 如何投稿
 
 - 最简单:用[投稿模板](../../issues/new?template=submit-video.yml)开 issue。
-- 或提 PR:运行 `python scripts/add_entry.py` 交互录入(会自动更新 `data/videos.json` 并生成 `prompts/<slug>.md`)。
+- 或提 PR:运行 `python scripts/add_entry.py` 交互录入(会更新 `data/videos.json` 并生成 `prompts/<slug>.md`)。
 
 ### 规则
 
 - **每个条目必须署名并链接原帖。** 这是这个列表的意义所在。
 - **prompt 只收录作者公开发布的内容。** 帖子只有效果描述时,粘贴该描述并标记 `prompt_partial: true`。不要收录私下泄露的 prompt。
-- `README.md` 和 `README.zh-CN.md` 由脚本自动生成,**不要手改**。改 `data/videos.json` 后运行 `python scripts/build_readme.py`。
+- `README.md` 和 `README.zh-CN.md` 由 `data/videos.json` 生成,**不要手改**。改 `data/videos.json` 后运行 `python scripts/build_readme.py`。
 - 提交前运行 `python scripts/validate.py && python scripts/build_readme.py --check`(CI 会做同样检查)。
 
 ### 条目格式
