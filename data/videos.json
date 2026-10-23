@@ -77313,5 +77313,767 @@
    "bytes": 786845,
    "synced_at": "2026-10-22"
   }
+ },
+ {
+  "slug": "bindureddy-457666",
+  "seo_slug": "animated-interactive-data-stories",
+  "model": "opus-5.5",
+  "author": "bindureddy",
+  "author_url": "https://x.com/bindureddy",
+  "post_url": "https://x.com/bindureddy/status/2113115471327457666",
+  "title": "Animated interactive data stories",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 3458308,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "matabee-gto-779288",
+  "seo_slug": "blender-video",
+  "model": "opus-5.5",
+  "author": "matabee_GTO",
+  "author_url": "https://x.com/matabee_GTO",
+  "post_url": "https://x.com/matabee_GTO/status/2113077084528779288",
+  "title": "Blender-generated video",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 196886,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "0xmovez-615783",
+  "seo_slug": "interactive-robotics-engineering-lesson",
+  "model": "opus-5.5",
+  "author": "0xMovez",
+  "author_url": "https://x.com/0xMovez",
+  "post_url": "https://x.com/0xMovez/status/2112940162103615783",
+  "title": "Interactive robotics engineering lesson",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 184489,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "alleybo55-646907",
+  "seo_slug": "live-solana-trading-card-explorer",
+  "model": "opus-5.5",
+  "author": "AlleyBo55",
+  "author_url": "https://x.com/AlleyBo55",
+  "post_url": "https://x.com/AlleyBo55/status/2112805269000646907",
+  "title": "Live Solana trading card explorer",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 160894,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "konstantinsaifo-637785",
+  "seo_slug": "interactive-truck-load-tracking-view",
+  "model": "opus-5.5",
+  "author": "konstantinsaifo",
+  "author_url": "https://x.com/konstantinsaifo",
+  "post_url": "https://x.com/konstantinsaifo/status/2112801199099637785",
+  "title": "Interactive truck load tracking view",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 109533,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "belbizaz-477905",
+  "seo_slug": "three-js-action-game-over-month",
+  "model": "opus-5.5",
+  "author": "Belbizaz",
+  "author_url": "https://x.com/Belbizaz",
+  "post_url": "https://x.com/Belbizaz/status/2112979473788477905",
+  "title": "Three.js action game built over a month",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 75214,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "breejeanadkat-660940",
+  "seo_slug": "smooth-interface-animation",
+  "model": "opus-5.5",
+  "author": "BreejeAnadkat",
+  "author_url": "https://x.com/BreejeAnadkat",
+  "post_url": "https://x.com/BreejeAnadkat/status/2112873177185660940",
+  "title": "Smooth interface animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 71374,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "usecrayon-867828",
+  "seo_slug": "rolling-republic-survival-game",
+  "model": "opus-5.5",
+  "author": "usecrayon",
+  "author_url": "https://x.com/usecrayon",
+  "post_url": "https://x.com/usecrayon/status/2113044115130867828",
+  "title": "Rolling Republic survival game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 63542,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "0xwhrrari-681365",
+  "seo_slug": "pdf-driven-motion-design-video",
+  "model": "opus-5.5",
+  "author": "0xwhrrari",
+  "author_url": "https://x.com/0xwhrrari",
+  "post_url": "https://x.com/0xwhrrari/status/2112896717523681365",
+  "title": "PDF-driven motion design video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 46900,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "kinderlayer-749657",
+  "seo_slug": "white-tiger-model-comparison",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2112887335687749657",
+  "title": "White tiger model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 42273,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "mrtacticalx-258550",
+  "seo_slug": "cozy-village-rendering-comparison",
+  "model": "opus-5.5",
+  "author": "MrTacticalX",
+  "author_url": "https://x.com/MrTacticalX",
+  "post_url": "https://x.com/MrTacticalX/status/2112848340224258550",
+  "title": "Cozy village rendering comparison",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 39397,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "pluvio9yte-610354",
+  "seo_slug": "peach-blossom-spring-adventure-game",
+  "model": "opus-5.5",
+  "author": "Pluvio9yte",
+  "author_url": "https://x.com/Pluvio9yte",
+  "post_url": "https://x.com/Pluvio9yte/status/2112833515037610354",
+  "title": "Peach Blossom Spring adventure game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 35307,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "lexnlin-224063",
+  "seo_slug": "paper-cut-fox-film",
+  "model": "opus-5.5",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2113025231732224063",
+  "title": "Paper-cut fox film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 34507,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "rewind02-553836",
+  "seo_slug": "reference-matched-3d-office-blender",
+  "model": "opus-5.5",
+  "author": "rewind02",
+  "author_url": "https://x.com/rewind02",
+  "post_url": "https://x.com/rewind02/status/2112890224426553836",
+  "title": "Reference-matched 3D office in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 33109,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "tnexplorer-293081",
+  "seo_slug": "drone-footage-reel-srirangam",
+  "model": "opus-5.5",
+  "author": "tnexplorer",
+  "author_url": "https://x.com/tnexplorer",
+  "post_url": "https://x.com/tnexplorer/status/2112880050706293081",
+  "title": "Drone footage reel about Srirangam",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 30860,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ercwl-274903",
+  "seo_slug": "richard-heart-arrest-video",
+  "model": "opus-5.5",
+  "author": "ercwl",
+  "author_url": "https://x.com/ercwl",
+  "post_url": "https://x.com/ercwl/status/2113049209742274903",
+  "title": "Richard Heart arrest video",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 30556,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "sakatayasha-414461",
+  "seo_slug": "paper-fabric-deformation-comparison",
+  "model": "opus-5.5",
+  "author": "sakatayasha",
+  "author_url": "https://x.com/sakatayasha",
+  "post_url": "https://x.com/sakatayasha/status/2112827697030414461",
+  "title": "Paper and fabric deformation comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 22910,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "m-houser-117270",
+  "seo_slug": "open-world-fantasy-game",
+  "model": "opus-5.5",
+  "author": "M__Houser",
+  "author_url": "https://x.com/M__Houser",
+  "post_url": "https://x.com/M__Houser/status/2112907086204117270",
+  "title": "Open-world fantasy game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 19949,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "tanjim38-169890",
+  "seo_slug": "open-source-task-management-app",
+  "model": "opus-5.5",
+  "author": "Tanjim38",
+  "author_url": "https://x.com/Tanjim38",
+  "post_url": "https://x.com/Tanjim38/status/2112964568616169890",
+  "title": "Open-source task management app",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 18536,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "alchainhust-050715",
+  "seo_slug": "claude-duet-promo-video-remake",
+  "model": "opus-5.5",
+  "author": "AlchainHust",
+  "author_url": "https://x.com/AlchainHust",
+  "post_url": "https://x.com/AlchainHust/status/2113061393541050715",
+  "title": "Claude Duet promo video remake",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 17741,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "vib3coded-102944",
+  "seo_slug": "pixel-art-basketball-court-diorama-weather",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2112989996366102944",
+  "title": "Pixel-art basketball court diorama with weather",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 17324,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "higgsfield-ai-658126",
+  "seo_slug": "code-based-3d-animation-duet-character",
+  "model": "opus-5.5",
+  "author": "higgsfield_ai",
+  "author_url": "https://x.com/higgsfield_ai",
+  "post_url": "https://x.com/higgsfield_ai/status/2113062105901658126",
+  "title": "Code-based 3D animation of the Duet character",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 16198,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "envoldev-936362",
+  "seo_slug": "lighthouse-scene-four-models",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2112995029337936362",
+  "title": "Lighthouse scene built by four models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 14689,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "flxrnc-588940",
+  "seo_slug": "motion-design-animation-pdf-brief",
+  "model": "opus-5.5",
+  "author": "flxrnc",
+  "author_url": "https://x.com/flxrnc",
+  "post_url": "https://x.com/flxrnc/status/2112973736244588940",
+  "title": "Motion design animation from a PDF brief",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 12315,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "mrtacticalx-598181",
+  "seo_slug": "interactive-3d-rooftop-glass-pool-two",
+  "model": "opus-5.5",
+  "author": "MrTacticalX",
+  "author_url": "https://x.com/MrTacticalX",
+  "post_url": "https://x.com/MrTacticalX/status/2112978719069598181",
+  "title": "Interactive 3D rooftop glass pool, two model versions",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 10890,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "konstantinsaifo-756652",
+  "seo_slug": "tesla-factory-strategy-simulation",
+  "model": "opus-5.5",
+  "author": "konstantinsaifo",
+  "author_url": "https://x.com/konstantinsaifo",
+  "post_url": "https://x.com/konstantinsaifo/status/2112913135782756652",
+  "title": "Tesla factory strategy simulation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 10798,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "rafacrackyt-996946",
+  "seo_slug": "ai-model-jet-dogfight-comparison",
+  "model": "opus-5.5",
+  "author": "RafaCrackYT",
+  "author_url": "https://x.com/RafaCrackYT",
+  "post_url": "https://x.com/RafaCrackYT/status/2112929520239996946",
+  "title": "AI model jet dogfight comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 10648,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "kewai386772-814141",
+  "seo_slug": "interactive-3d-portfolio-book",
+  "model": "opus-5.5",
+  "author": "KeWai386772",
+  "author_url": "https://x.com/KeWai386772",
+  "post_url": "https://x.com/KeWai386772/status/2112861606715814141",
+  "title": "Interactive 3D portfolio book",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 10581,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ann-nnng-741143",
+  "seo_slug": "lily-valley-island-scene",
+  "model": "opus-5.5",
+  "author": "ann_nnng",
+  "author_url": "https://x.com/ann_nnng",
+  "post_url": "https://x.com/ann_nnng/status/2112897537430741143",
+  "title": "Lily of the valley island scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 10338,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "olezhavich-264814",
+  "seo_slug": "3d-jet-engine-model-comparison",
+  "model": "opus-5.5",
+  "author": "olezhavich",
+  "author_url": "https://x.com/olezhavich",
+  "post_url": "https://x.com/olezhavich/status/2112897791022264814",
+  "title": "3D jet engine model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 10315,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "konstantinsaifo-331552",
+  "seo_slug": "live-3d-delivery-simulation",
+  "model": "opus-5.5",
+  "author": "konstantinsaifo",
+  "author_url": "https://x.com/konstantinsaifo",
+  "post_url": "https://x.com/konstantinsaifo/status/2112802541327331552",
+  "title": "Live 3D delivery simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 9718,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "mrtacticalx-272680",
+  "seo_slug": "wwii-mountain-fortress-blizzard-blender-scene",
+  "model": "opus-5.5",
+  "author": "MrTacticalX",
+  "author_url": "https://x.com/MrTacticalX",
+  "post_url": "https://x.com/MrTacticalX/status/2113119946599272680",
+  "title": "WWII mountain fortress in a blizzard, Blender scene",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "python"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 9448,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "n1njacodex-627200",
+  "seo_slug": "pixel-art-3d-football-yard-simulation",
+  "model": "opus-5.5",
+  "author": "N1njaCodex",
+  "author_url": "https://x.com/N1njaCodex",
+  "post_url": "https://x.com/N1njaCodex/status/2113037013326627200",
+  "title": "Pixel-art 3D football yard simulation with kids and dog",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 8801,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "n01ennn-025189",
+  "seo_slug": "28-second-short-film",
+  "model": "opus-5.5",
+  "author": "N01ennn",
+  "author_url": "https://x.com/N01ennn",
+  "post_url": "https://x.com/N01ennn/status/2112882581809025189",
+  "title": "28-second short film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 8238,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "gablattanzio-741180",
+  "seo_slug": "30-player-climate-policy-classroom-game",
+  "model": "opus-5.5",
+  "author": "GabLattanzio",
+  "author_url": "https://x.com/GabLattanzio",
+  "post_url": "https://x.com/GabLattanzio/status/2113137522561741180",
+  "title": "30-player climate policy classroom game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 7307,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "kevin-t-ngo-096988",
+  "seo_slug": "unofficial-theranos-commercial",
+  "model": "opus-5.5",
+  "author": "kevin_t_ngo",
+  "author_url": "https://x.com/kevin_t_ngo",
+  "post_url": "https://x.com/kevin_t_ngo/status/2112877982239096988",
+  "title": "Unofficial Theranos commercial",
+  "category": "motion",
+  "tech_tags": [
+   "python",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 6978,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "semichenkko-368406",
+  "seo_slug": "jelly-eyeball-model-comparison",
+  "model": "opus-5.5",
+  "author": "semichenkko",
+  "author_url": "https://x.com/semichenkko",
+  "post_url": "https://x.com/semichenkko/status/2112923979002368406",
+  "title": "Jelly eyeball model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 6892,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "icreatelife-067751",
+  "seo_slug": "cozy-boat-game-learning-japanese-kanji",
+  "model": "opus-5.5",
+  "author": "icreatelife",
+  "author_url": "https://x.com/icreatelife",
+  "post_url": "https://x.com/icreatelife/status/2113022598368067751",
+  "title": "Cozy boat game for learning Japanese kanji",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 5512,
+   "captured_at": "2026-10-23"
+  }
  }
 ]

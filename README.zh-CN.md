@@ -7,7 +7,7 @@
 
 用 **Opus 5.5**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 2504 条视频](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
+**[▶ 在 clawshelf.com 观看全部 2542 条视频](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,16 +15,16 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **703 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-opus5-5-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-22):共 2504 条
+- 最近更新(2026-10-23):共 2542 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (1337)
-- [讲解动画](#讲解动画) (196)
-- [3D 场景](#3d-场景) (386)
-- [游戏与交互](#游戏与交互) (421)
-- [长片](#长片) (108)
+- [动态图形](#动态图形) (1359)
+- [讲解动画](#讲解动画) (197)
+- [3D 场景](#3d-场景) (393)
+- [游戏与交互](#游戏与交互) (428)
+- [长片](#长片) (109)
 - [音乐视频](#音乐视频) (56)
 - [最新收录](#最新收录)
 
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/animated-launch-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-819196/preview.webp" alt="Opus 5.5 video by @higgsfield" width="100%"></a><br><a href="https://x.com/higgsfield/status/2104573404552819196"><b>@higgsfield</b></a> · <a href="prompts/higgsfield-819196.md">详情</a><br><sub>Canvas · 1.3M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/portfolio-site-three-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/cambreedesigns-766152/preview.webp" alt="Opus 5.5 video by @cambreedesigns" width="100%"></a><br><a href="https://x.com/cambreedesigns/status/2104999693113766152"><b>@cambreedesigns</b></a> · <a href="prompts/cambreedesigns-766152.md">详情</a><br><sub>Canvas · 1.2M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/code-based-ui-motion-design-showreel?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-402193/preview.webp" alt="Opus 5.5 video by @twoclipping" width="100%"></a><br><a href="https://x.com/twoclipping/status/2103273003555402193"><b>@twoclipping</b></a> · <a href="prompts/twoclipping-402193.md">提示词</a><br><sub>FFmpeg · 1.2M views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 1337 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 1359 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=motion)
 
 ## 讲解动画
 
@@ -48,7 +48,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/interactive-traffic-jam-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-389840/preview.webp" alt="Opus 5.5 video by @Lattice_Node" width="100%"></a><br><a href="https://x.com/Lattice_Node/status/2105946058417389840"><b>@Lattice_Node</b></a> · <a href="prompts/lattice-node-389840.md">详情</a><br><sub>Canvas · 254K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/honnoji-incident-history-explainer-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/aiplus-aischool-070563/preview.webp" alt="Opus 5.5 video by @AIPlus_AISchool" width="100%"></a><br><a href="https://x.com/AIPlus_AISchool/status/2102960034431070563"><b>@AIPlus_AISchool</b></a> · <a href="prompts/aiplus-aischool-070563.md">详情</a><br><sub>Canvas · 230K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/visualization-claude-effort-levels?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/devteamdrew-744578/preview.webp" alt="Opus 5.5 video by @devteamdrew" width="100%"></a><br><a href="https://x.com/devteamdrew/status/2105353836638744578"><b>@devteamdrew</b></a> · <a href="prompts/devteamdrew-744578.md">详情</a><br><sub>Canvas · 223K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 196 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=explainer)
+[▶ 在 clawshelf.com 查看全部 197 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=explainer)
 
 ## 3D 场景
 
@@ -59,7 +59,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/tentacle-egg-laying-rig?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/pontyadayo-234083/preview.webp" alt="Opus 5.5 video by @pontyadayo" width="100%"></a><br><a href="https://x.com/pontyadayo/status/2111506221048234083"><b>@pontyadayo</b></a> · <a href="prompts/pontyadayo-234083.md">详情</a><br><sub>Canvas · 537K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/playable-boat-scene-japanese-landscapes?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/mengto-189761/preview.webp" alt="Opus 5.5 video by @MengTo" width="100%"></a><br><a href="https://x.com/MengTo/status/2102760783344189761"><b>@MengTo</b></a> · <a href="prompts/mengto-189761.md">详情</a><br><sub>Three.js · 483K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/dune-sandworm-turned-into-robot-concept?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/dilumsanjaya-127597/preview.webp" alt="Opus 5.5 video by @DilumSanjaya" width="100%"></a><br><a href="https://x.com/DilumSanjaya/status/2104253761137127597"><b>@DilumSanjaya</b></a> · <a href="prompts/dilumsanjaya-127597.md">详情</a><br><sub>Canvas · 447K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 386 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=3d-scenes)
+[▶ 在 clawshelf.com 查看全部 393 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=3d-scenes)
 
 ## 游戏与交互
 
@@ -70,7 +70,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/valorants-breach-playable-league-style-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/gamefxai-625563/preview.webp" alt="Opus 5.5 video by @GamefxAI" width="100%"></a><br><a href="https://x.com/GamefxAI/status/2108236934971625563"><b>@GamefxAI</b></a> · <a href="prompts/gamefxai-625563.md">详情</a><br><sub>Canvas · 848K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/splatoon-style-browser-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/jaydendavisnc-036304/preview.webp" alt="Opus 5.5 video by @JaydenDavisNC" width="100%"></a><br><a href="https://x.com/JaydenDavisNC/status/2103357848961036304"><b>@JaydenDavisNC</b></a> · <a href="prompts/jaydendavisnc-036304.md">详情</a><br><sub>Canvas · 814K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/trolley-problem-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/soyukke-game-155565/preview.webp" alt="Opus 5.5 video by @soyukke_game" width="100%"></a><br><a href="https://x.com/soyukke_game/status/2102641525071155565"><b>@soyukke_game</b></a> · <a href="prompts/soyukke-game-155565.md">详情</a><br><sub>Canvas · 712K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 421 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=games-interactive)
+[▶ 在 clawshelf.com 查看全部 428 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=games-interactive)
 
 ## 长片
 
@@ -81,7 +81,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/peach-blossom-spring-interactive-3d-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/dotey-017293/preview.webp" alt="Opus 5.5 video by @dotey" width="100%"></a><br><a href="https://x.com/dotey/status/2102940980379017293"><b>@dotey</b></a> · <a href="prompts/dotey-017293.md">详情</a><br><sub>Three.js · 220K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/history-ai-documentary-short-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/kimmonismus-575547/preview.webp" alt="Opus 5.5 video by @kimmonismus" width="100%"></a><br><a href="https://x.com/kimmonismus/status/2102844654169575547"><b>@kimmonismus</b></a> · <a href="prompts/kimmonismus-575547.md">详情</a><br><sub>Remotion · 203K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/transformer-explainer-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/dotey-522564/preview.webp" alt="Opus 5.5 video by @dotey" width="100%"></a><br><a href="https://x.com/dotey/status/2103683057689522564"><b>@dotey</b></a> · <a href="prompts/dotey-522564.md">提示词</a><br><sub>Remotion · 190K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 108 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=long-form)
+[▶ 在 clawshelf.com 查看全部 109 条](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos&category=long-form)
 
 ## 音乐视频
 
@@ -96,36 +96,36 @@
 
 ## 最新收录
 
-- [Portfolio data dashboard and animation](https://clawshelf.com/ai-videos/opus-5-5/portfolio-data-dashboard-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@bindureddy](https://x.com/bindureddy/status/2112606220293193965) · [详情](prompts/bindureddy-193965.md)
-- [Mentos simulation over time](https://clawshelf.com/ai-videos/opus-5-5/mentos-simulation-over-time?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@ivanainai](https://x.com/ivanainai/status/2112607156088299774) · [详情](prompts/ivanainai-299774.md)
-- [Interactive Arduino learning app](https://clawshelf.com/ai-videos/opus-5-5/interactive-arduino-learning-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@DilumSanjaya](https://x.com/DilumSanjaya/status/2112587730542854263) · [详情](prompts/dilumsanjaya-854263.md)
-- [Persona 3 FES PC port progress](https://clawshelf.com/ai-videos/opus-5-5/persona-3-fes-pc-port-progress?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@SrLinguicaVIVE](https://x.com/SrLinguicaVIVE/status/2112511666524922309) · [详情](prompts/srlinguicavive-922309.md)
-- [Code-only three.js temple at dusk](https://clawshelf.com/ai-videos/opus-5-5/code-only-three-js-temple-dusk?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@leo_xiaolei](https://x.com/leo_xiaolei/status/2112545748944556038) · [详情](prompts/leo-xiaolei-556038.md)
-- [Flappy Bird style game built with Opus 5.5](https://clawshelf.com/ai-videos/opus-5-5/flappy-bird-style-game-opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@errenozgur](https://x.com/errenozgur/status/2112454816316158084) · [详情](prompts/errenozgur-158084.md)
-- [3D interactive website from one prompt](https://clawshelf.com/ai-videos/opus-5-5/3d-interactive-website-one-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@viktoroddy](https://x.com/viktoroddy/status/2112514570078372079) · [详情](prompts/viktoroddy-372079.md)
-- [Squid Game scene assembled from low-cost clips](https://clawshelf.com/ai-videos/opus-5-5/squid-game-scene-assembled-low-cost?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@mickeyxfriedman](https://x.com/mickeyxfriedman/status/2112653827644301328) · [详情](prompts/mickeyxfriedman-301328.md)
-- [City built inside a game](https://clawshelf.com/ai-videos/opus-5-5/city-inside-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@xikhar](https://x.com/xikhar/status/2112709928771277158) · [详情](prompts/xikhar-277158.md)
-- [Otter on a plane using Wi-Fi](https://clawshelf.com/ai-videos/opus-5-5/otter-plane-wi-fi?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@emollick](https://x.com/emollick/status/2112656453685367004) · [详情](prompts/emollick-367004.md)
-- [Explainer video on how DeepInfer works](https://clawshelf.com/ai-videos/opus-5-5/explainer-video-how-deepinfer-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@cneuralnetwork](https://x.com/cneuralnetwork/status/2112500556916986309) · [详情](prompts/cneuralnetwork-986309.md)
-- [Animated journey through five worlds](https://clawshelf.com/ai-videos/opus-5-5/animated-journey-five-worlds?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@MrTacticalX](https://x.com/MrTacticalX/status/2112671240964219290) · [详情](prompts/mrtacticalx-219290.md)
-- [Pi-durable lecture condensed into a 7-minute explainer](https://clawshelf.com/ai-videos/opus-5-5/pi-durable-lecture-condensed-into-7?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@_alejandroao](https://x.com/_alejandroao/status/2112466641464267203) · [详情](prompts/alejandroao-267203.md)
-- [VR time-freeze app built end to end](https://clawshelf.com/ai-videos/opus-5-5/vr-time-freeze-app-end-end?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@lucas_martinic](https://x.com/lucas_martinic/status/2112514417300758643) · [详情](prompts/lucas-martinic-758643.md)
-- [Alpine lake scene built in code](https://clawshelf.com/ai-videos/opus-5-5/alpine-lake-scene-code?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@LexnLin](https://x.com/LexnLin/status/2112560562609803311) · [详情](prompts/lexnlin-803311.md)
-- [Haunted house at different effort levels](https://clawshelf.com/ai-videos/opus-5-5/haunted-house-different-effort-levels?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@MrTacticalX](https://x.com/MrTacticalX/status/2112756630203011516) · [详情](prompts/mrtacticalx-011516.md)
-- [Stickman fight animation](https://clawshelf.com/ai-videos/opus-5-5/stickman-fight-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@DanielZambrini](https://x.com/DanielZambrini/status/2112700824220832140) · [详情](prompts/danielzambrini-832140.md)
-- [Motion design rebuilt as HTML/SVG animation](https://clawshelf.com/ai-videos/opus-5-5/motion-design-rebuilt-as-html-svg?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@OdinLovis](https://x.com/OdinLovis/status/2112536814393454735) · [详情](prompts/odinlovis-454735.md)
-- [Three.js solar system model comparison](https://clawshelf.com/ai-videos/opus-5-5/three-js-solar-system-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@AYi_AInotes](https://x.com/AYi_AInotes/status/2112521204791918675) · [详情](prompts/ayi-ainotes-918675.md)
-- [Trailer Park Warfare browser shooter game](https://clawshelf.com/ai-videos/opus-5-5/trailer-park-warfare-browser-shooter-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@KaladinOG](https://x.com/KaladinOG/status/2112624828767154621) · [详情](prompts/kaladinog-154621.md)
-- [3D animated commercial for Rondo game](https://clawshelf.com/ai-videos/opus-5-5/3d-animated-commercial-rondo-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@IHayato](https://x.com/IHayato/status/2112430672090730746) · [详情](prompts/ihayato-730746.md)
-- [Journey of a Shopify order from click to doorstep](https://clawshelf.com/ai-videos/opus-5-5/journey-shopify-order-click-doorstep?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@konstantinsaifo](https://x.com/konstantinsaifo/status/2112654123669639665) · [详情](prompts/konstantinsaifo-639665.md)
-- [Chip fab strategy sim comparison](https://clawshelf.com/ai-videos/opus-5-5/chip-fab-strategy-sim-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@anxuanng](https://x.com/anxuanng/status/2112583451958538598) · [详情](prompts/anxuanng-538598.md)
-- [3D tower defense game with bosses and volcano maps](https://clawshelf.com/ai-videos/opus-5-5/3d-tower-defense-game-bosses-volcano?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@MrTacticalX](https://x.com/MrTacticalX/status/2112708402367639740) · [详情](prompts/mrtacticalx-639740.md)
-- [Bully port in Unreal with full map, vehicles, weapons](https://clawshelf.com/ai-videos/opus-5-5/bully-port-unreal-full-map-vehicles?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@ashen_one](https://x.com/ashen_one/status/2112725241319301315) · [详情](prompts/ashen-one-301315.md)
-- [Mars rover assembly in Blender, two models compared](https://clawshelf.com/ai-videos/opus-5-5/mars-rover-assembly-blender-two-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@k1rallik](https://x.com/k1rallik/status/2112615679379616081) · [详情](prompts/k1rallik-616081.md)
-- [Ten AI-generated UGC product ads](https://clawshelf.com/ai-videos/opus-5-5/ten-ai-ugc-product-ads?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@jakecastilloooo](https://x.com/jakecastilloooo/status/2112552356210778380) · [详情](prompts/jakecastilloooo-778380.md)
-- [MEP systems layout for a two-story villa](https://clawshelf.com/ai-videos/opus-5-5/mep-systems-layout-two-story-villa?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@Solvaix](https://x.com/Solvaix/status/2112614086932611107) · [详情](prompts/solvaix-611107.md)
-- [Wan 3.0 vs Claude Opus 5.5 running app promo](https://clawshelf.com/ai-videos/opus-5-5/wan-3-0-vs-claude-opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@higgsfield_ai](https://x.com/higgsfield_ai/status/2112542223862780143) · [详情](prompts/higgsfield-ai-780143.md)
-- [Pelican driving roadster model comparison](https://clawshelf.com/ai-videos/opus-5-5/pelican-driving-roadster-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@noclipepe](https://x.com/noclipepe/status/2112534811466223703) · [详情](prompts/noclipepe-223703.md)
+- [Animated interactive data stories](https://clawshelf.com/ai-videos/opus-5-5/animated-interactive-data-stories?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@bindureddy](https://x.com/bindureddy/status/2113115471327457666) · [详情](prompts/bindureddy-457666.md)
+- [Blender-generated video](https://clawshelf.com/ai-videos/opus-5-5/blender-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@matabee_GTO](https://x.com/matabee_GTO/status/2113077084528779288) · [详情](prompts/matabee-gto-779288.md)
+- [Interactive robotics engineering lesson](https://clawshelf.com/ai-videos/opus-5-5/interactive-robotics-engineering-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@0xMovez](https://x.com/0xMovez/status/2112940162103615783) · [详情](prompts/0xmovez-615783.md)
+- [Live Solana trading card explorer](https://clawshelf.com/ai-videos/opus-5-5/live-solana-trading-card-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@AlleyBo55](https://x.com/AlleyBo55/status/2112805269000646907) · [详情](prompts/alleybo55-646907.md)
+- [Interactive truck load tracking view](https://clawshelf.com/ai-videos/opus-5-5/interactive-truck-load-tracking-view?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@konstantinsaifo](https://x.com/konstantinsaifo/status/2112801199099637785) · [详情](prompts/konstantinsaifo-637785.md)
+- [Three.js action game built over a month](https://clawshelf.com/ai-videos/opus-5-5/three-js-action-game-over-month?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@Belbizaz](https://x.com/Belbizaz/status/2112979473788477905) · [详情](prompts/belbizaz-477905.md)
+- [Smooth interface animation](https://clawshelf.com/ai-videos/opus-5-5/smooth-interface-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@BreejeAnadkat](https://x.com/BreejeAnadkat/status/2112873177185660940) · [详情](prompts/breejeanadkat-660940.md)
+- [Rolling Republic survival game](https://clawshelf.com/ai-videos/opus-5-5/rolling-republic-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@usecrayon](https://x.com/usecrayon/status/2113044115130867828) · [详情](prompts/usecrayon-867828.md)
+- [PDF-driven motion design video](https://clawshelf.com/ai-videos/opus-5-5/pdf-driven-motion-design-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@0xwhrrari](https://x.com/0xwhrrari/status/2112896717523681365) · [详情](prompts/0xwhrrari-681365.md)
+- [White tiger model comparison](https://clawshelf.com/ai-videos/opus-5-5/white-tiger-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@kinderlayer](https://x.com/kinderlayer/status/2112887335687749657) · [详情](prompts/kinderlayer-749657.md)
+- [Cozy village rendering comparison](https://clawshelf.com/ai-videos/opus-5-5/cozy-village-rendering-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@MrTacticalX](https://x.com/MrTacticalX/status/2112848340224258550) · [详情](prompts/mrtacticalx-258550.md)
+- [Peach Blossom Spring adventure game](https://clawshelf.com/ai-videos/opus-5-5/peach-blossom-spring-adventure-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@Pluvio9yte](https://x.com/Pluvio9yte/status/2112833515037610354) · [详情](prompts/pluvio9yte-610354.md)
+- [Paper-cut fox film](https://clawshelf.com/ai-videos/opus-5-5/paper-cut-fox-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@LexnLin](https://x.com/LexnLin/status/2113025231732224063) · [详情](prompts/lexnlin-224063.md)
+- [Reference-matched 3D office in Blender](https://clawshelf.com/ai-videos/opus-5-5/reference-matched-3d-office-blender?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@rewind02](https://x.com/rewind02/status/2112890224426553836) · [详情](prompts/rewind02-553836.md)
+- [Drone footage reel about Srirangam](https://clawshelf.com/ai-videos/opus-5-5/drone-footage-reel-srirangam?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@tnexplorer](https://x.com/tnexplorer/status/2112880050706293081) · [详情](prompts/tnexplorer-293081.md)
+- [Richard Heart arrest video](https://clawshelf.com/ai-videos/opus-5-5/richard-heart-arrest-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@ercwl](https://x.com/ercwl/status/2113049209742274903) · [详情](prompts/ercwl-274903.md)
+- [Paper and fabric deformation comparison](https://clawshelf.com/ai-videos/opus-5-5/paper-fabric-deformation-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@sakatayasha](https://x.com/sakatayasha/status/2112827697030414461) · [详情](prompts/sakatayasha-414461.md)
+- [Open-world fantasy game](https://clawshelf.com/ai-videos/opus-5-5/open-world-fantasy-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@M__Houser](https://x.com/M__Houser/status/2112907086204117270) · [详情](prompts/m-houser-117270.md)
+- [Open-source task management app](https://clawshelf.com/ai-videos/opus-5-5/open-source-task-management-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@Tanjim38](https://x.com/Tanjim38/status/2112964568616169890) · [详情](prompts/tanjim38-169890.md)
+- [Claude Duet promo video remake](https://clawshelf.com/ai-videos/opus-5-5/claude-duet-promo-video-remake?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@AlchainHust](https://x.com/AlchainHust/status/2113061393541050715) · [详情](prompts/alchainhust-050715.md)
+- [Pixel-art basketball court diorama with weather](https://clawshelf.com/ai-videos/opus-5-5/pixel-art-basketball-court-diorama-weather?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@vib3coded](https://x.com/vib3coded/status/2112989996366102944) · [详情](prompts/vib3coded-102944.md)
+- [Code-based 3D animation of the Duet character](https://clawshelf.com/ai-videos/opus-5-5/code-based-3d-animation-duet-character?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@higgsfield_ai](https://x.com/higgsfield_ai/status/2113062105901658126) · [详情](prompts/higgsfield-ai-658126.md)
+- [Lighthouse scene built by four models](https://clawshelf.com/ai-videos/opus-5-5/lighthouse-scene-four-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@EnvolDev](https://x.com/EnvolDev/status/2112995029337936362) · [详情](prompts/envoldev-936362.md)
+- [Motion design animation from a PDF brief](https://clawshelf.com/ai-videos/opus-5-5/motion-design-animation-pdf-brief?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@flxrnc](https://x.com/flxrnc/status/2112973736244588940) · [详情](prompts/flxrnc-588940.md)
+- [Interactive 3D rooftop glass pool, two model versions](https://clawshelf.com/ai-videos/opus-5-5/interactive-3d-rooftop-glass-pool-two?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@MrTacticalX](https://x.com/MrTacticalX/status/2112978719069598181) · [详情](prompts/mrtacticalx-598181.md)
+- [Tesla factory strategy simulation](https://clawshelf.com/ai-videos/opus-5-5/tesla-factory-strategy-simulation?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@konstantinsaifo](https://x.com/konstantinsaifo/status/2112913135782756652) · [详情](prompts/konstantinsaifo-756652.md)
+- [AI model jet dogfight comparison](https://clawshelf.com/ai-videos/opus-5-5/ai-model-jet-dogfight-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@RafaCrackYT](https://x.com/RafaCrackYT/status/2112929520239996946) · [详情](prompts/rafacrackyt-996946.md)
+- [Interactive 3D portfolio book](https://clawshelf.com/ai-videos/opus-5-5/interactive-3d-portfolio-book?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@KeWai386772](https://x.com/KeWai386772/status/2112861606715814141) · [详情](prompts/kewai386772-814141.md)
+- [Lily of the valley island scene](https://clawshelf.com/ai-videos/opus-5-5/lily-valley-island-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@ann_nnng](https://x.com/ann_nnng/status/2112897537430741143) · [详情](prompts/ann-nnng-741143.md)
+- [3D jet engine model comparison](https://clawshelf.com/ai-videos/opus-5-5/3d-jet-engine-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) — [@olezhavich](https://x.com/olezhavich/status/2112897791022264814) · [详情](prompts/olezhavich-264814.md)
 
 ## 如何使用 prompt
 
