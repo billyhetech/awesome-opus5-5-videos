@@ -28,9 +28,13 @@ HERO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
 # Every single-model list, largest first; this repo is left out of its own line.
 SIBLINGS = [
     ("Opus 5.5", "https://github.com/billyhetech/awesome-opus5-5-videos"),
+    ("Seedance 2.5", "https://github.com/billyhetech/awesome-seedance2-5-videos"),
+    ("MiniMax H3", "https://github.com/billyhetech/awesome-minimax-h3-videos"),
     ("Gemini 4 Argon", "https://github.com/billyhetech/awesome-gemini4-argon-videos"),
     ("Fable 5.5", "https://github.com/billyhetech/awesome-fable5-5-videos"),
+    ("Grok Imagine", "https://github.com/billyhetech/awesome-grok-imagine-videos"),
     ("GPT-6 Astra", "https://github.com/billyhetech/awesome-gpt6-astra-videos"),
+    ("Kling 4.0", "https://github.com/billyhetech/awesome-kling4-videos"),
 ]
 CLAWSHELF_BASE = "https://clawshelf.com/ai-videos/opus-5-5"
 CLAWSHELF_UTM = "?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"
