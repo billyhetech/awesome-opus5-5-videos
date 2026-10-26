@@ -81290,5 +81290,808 @@
    "bytes": 25736617,
    "synced_at": "2026-10-25"
   }
+ },
+ {
+  "slug": "kinderlayer-150958",
+  "seo_slug": "water-pump-mechanism-four-models",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2113937338938150958",
+  "title": "Water pump mechanism built by four models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 428878,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "finnardley-508998",
+  "seo_slug": "code-explainer-animation",
+  "model": "opus-5.5",
+  "author": "finnardley",
+  "author_url": "https://x.com/finnardley",
+  "post_url": "https://x.com/finnardley/status/2114188068500508998",
+  "title": "Code-built explainer animation",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 179917,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "servasyy-ai-267384",
+  "seo_slug": "catchy-short-video-style-music-video",
+  "model": "opus-5.5",
+  "author": "servasyy_ai",
+  "author_url": "https://x.com/servasyy_ai",
+  "post_url": "https://x.com/servasyy_ai/status/2113918837666267384",
+  "title": "Catchy short-video style music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 167097,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "techartist-742180",
+  "seo_slug": "interactive-3d-book-gcse-energy",
+  "model": "opus-5.5",
+  "author": "techartist_",
+  "author_url": "https://x.com/techartist_",
+  "post_url": "https://x.com/techartist_/status/2114035463153742180",
+  "title": "Interactive 3D book on GCSE energy",
+  "category": "explainer",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 152027,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "buildwithsid-846516",
+  "seo_slug": "cyberpunk-city-flying-cars",
+  "model": "opus-5.5",
+  "author": "buildwithsid",
+  "author_url": "https://x.com/buildwithsid",
+  "post_url": "https://x.com/buildwithsid/status/2114004943996846516",
+  "title": "Cyberpunk city with flying cars",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 116032,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "luccacerf-194391",
+  "seo_slug": "clash-royale-inspired-strategy-game-prototype",
+  "model": "opus-5.5",
+  "author": "luccacerf",
+  "author_url": "https://x.com/luccacerf",
+  "post_url": "https://x.com/luccacerf/status/2114024932833194391",
+  "title": "Clash Royale-inspired strategy game prototype",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 102263,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "theo-988747",
+  "seo_slug": "guest-sharing-feature-demo",
+  "model": "opus-5.5",
+  "author": "theo",
+  "author_url": "https://x.com/theo",
+  "post_url": "https://x.com/theo/status/2114238361967988747",
+  "title": "Guest sharing feature demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 84618,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "phyronnaz-315897",
+  "seo_slug": "remarkable-drawing-animation",
+  "model": "opus-5.5",
+  "author": "phyronnaz",
+  "author_url": "https://x.com/phyronnaz",
+  "post_url": "https://x.com/phyronnaz/status/2114177518819315897",
+  "title": "Remarkable drawing animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 73986,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "emmanuel-2m-241966",
+  "seo_slug": "open-source-collection-1300-3d-models",
+  "model": "opus-5.5",
+  "author": "emmanuel_2m",
+  "author_url": "https://x.com/emmanuel_2m",
+  "post_url": "https://x.com/emmanuel_2m/status/2113990638748241966",
+  "title": "Open-source collection of 1,300 3D models",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 51321,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "nicos-ai-358330",
+  "seo_slug": "kimi-opus-scene-comparison",
+  "model": "opus-5.5",
+  "author": "nicos_ai",
+  "author_url": "https://x.com/nicos_ai",
+  "post_url": "https://x.com/nicos_ai/status/2114063235083358330",
+  "title": "Kimi and Opus scene comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 49380,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "roundtablespace-636856",
+  "seo_slug": "side-side-model-comparison",
+  "model": "opus-5.5",
+  "author": "RoundtableSpace",
+  "author_url": "https://x.com/RoundtableSpace",
+  "post_url": "https://x.com/RoundtableSpace/status/2114118486859636856",
+  "title": "Side-by-side model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 43255,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "forkedpush-569767",
+  "seo_slug": "indie-game-thirty-days",
+  "model": "opus-5.5",
+  "author": "ForkedPush",
+  "author_url": "https://x.com/ForkedPush",
+  "post_url": "https://x.com/ForkedPush/status/2114084671189569767",
+  "title": "Indie game built in thirty days",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 42401,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "0xwhrrari-602485",
+  "seo_slug": "motion-design-video-pdf-guide",
+  "model": "opus-5.5",
+  "author": "0xwhrrari",
+  "author_url": "https://x.com/0xwhrrari",
+  "post_url": "https://x.com/0xwhrrari/status/2114001528562602485",
+  "title": "Motion design video generated from a PDF guide",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 35375,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "nenlyonis-420021",
+  "seo_slug": "pixel-art-skill-vfx-system-top",
+  "model": "opus-5.5",
+  "author": "Nenlyonis",
+  "author_url": "https://x.com/Nenlyonis",
+  "post_url": "https://x.com/Nenlyonis/status/2113916518610420021",
+  "title": "Pixel-art skill VFX system for a top-down game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 34057,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "killahdev-187460",
+  "seo_slug": "roblox-agent-game-interface",
+  "model": "opus-5.5",
+  "author": "killahdev",
+  "author_url": "https://x.com/killahdev",
+  "post_url": "https://x.com/killahdev/status/2114175291451187460",
+  "title": "Roblox agent-built game interface",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 30259,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "seeconvm-131638",
+  "seo_slug": "pdf-based-motion-graphic",
+  "model": "opus-5.5",
+  "author": "seeconvm",
+  "author_url": "https://x.com/seeconvm",
+  "post_url": "https://x.com/seeconvm/status/2114063937109131638",
+  "title": "PDF-based motion graphic",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 27260,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "scottstts-563857",
+  "seo_slug": "recreation-food-forest-animated-short",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2113955828021563857",
+  "title": "Recreation of the Food Forest animated short",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 24792,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "luminabench-705768",
+  "seo_slug": "3d-helicopter-side-side-comparison",
+  "model": "opus-5.5",
+  "author": "LuminaBench",
+  "author_url": "https://x.com/LuminaBench",
+  "post_url": "https://x.com/LuminaBench/status/2113963313591705768",
+  "title": "3D helicopter build side-by-side comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 24690,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "0xrhinox-495351",
+  "seo_slug": "rainbow-jelly-model-comparison",
+  "model": "opus-5.5",
+  "author": "0xRhinoX",
+  "author_url": "https://x.com/0xRhinoX",
+  "post_url": "https://x.com/0xRhinoX/status/2114059647233495351",
+  "title": "Rainbow jelly model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 24418,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "aimikoda-839305",
+  "seo_slug": "three-poster-grid-music-video-variations",
+  "model": "opus-5.5",
+  "author": "aimikoda",
+  "author_url": "https://x.com/aimikoda",
+  "post_url": "https://x.com/aimikoda/status/2114167098284839305",
+  "title": "Three poster-grid music video variations",
+  "category": "music-videos",
+  "tech_tags": [
+   "python",
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 22295,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "scottstts-984749",
+  "seo_slug": "summer-festival-pond-line-3d-scene",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2114035230113984749",
+  "title": "Summer festival pond line 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 20992,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "miaai-lab-800152",
+  "seo_slug": "gummy-bear-model-comparison",
+  "model": "opus-5.5",
+  "author": "MiaAI_lab",
+  "author_url": "https://x.com/MiaAI_lab",
+  "post_url": "https://x.com/MiaAI_lab/status/2114103699148800152",
+  "title": "Gummy bear model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 20446,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "aimikoda-964169",
+  "seo_slug": "gunslinger-slow-motion-sandevistan-effect-edit",
+  "model": "opus-5.5",
+  "author": "aimikoda",
+  "author_url": "https://x.com/aimikoda",
+  "post_url": "https://x.com/aimikoda/status/2114007429146964169",
+  "title": "Gunslinger slow-motion Sandevistan effect edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 19884,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "mrtacticalx-872333",
+  "seo_slug": "pizza-making-simulator-game",
+  "model": "opus-5.5",
+  "author": "MrTacticalX",
+  "author_url": "https://x.com/MrTacticalX",
+  "post_url": "https://x.com/MrTacticalX/status/2113987724260872333",
+  "title": "Pizza making simulator game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 18785,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "marcthecreatorr-649183",
+  "seo_slug": "floating-kingdom-model-comparison",
+  "model": "opus-5.5",
+  "author": "marcthecreatorr",
+  "author_url": "https://x.com/marcthecreatorr",
+  "post_url": "https://x.com/marcthecreatorr/status/2114074078340649183",
+  "title": "Floating Kingdom model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 18228,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "vib3coded-347208",
+  "seo_slug": "jelly-cube-spaceport-comparison",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2114132632166347208",
+  "title": "Jelly cube spaceport comparison",
+  "category": "motion",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 17426,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "killahdev-783215",
+  "seo_slug": "roblox-simulator-game",
+  "model": "opus-5.5",
+  "author": "killahdev",
+  "author_url": "https://x.com/killahdev",
+  "post_url": "https://x.com/killahdev/status/2114173223281783215",
+  "title": "Roblox simulator game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 15329,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "chetaslua-288714",
+  "seo_slug": "pokemon-themed-ui-animations",
+  "model": "opus-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2114027737149288714",
+  "title": "Pokemon-themed UI animations",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 14938,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "envoldev-508431",
+  "seo_slug": "lighthouse-scene-three-models",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2114037839281508431",
+  "title": "Lighthouse scene built by three models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 13347,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "0x-fokki-504736",
+  "seo_slug": "robot-vacuum-arm-step-step-explainer",
+  "model": "opus-5.5",
+  "author": "0x_fokki",
+  "author_url": "https://x.com/0x_fokki",
+  "post_url": "https://x.com/0x_fokki/status/2114036526015504736",
+  "title": "Robot vacuum with arm step-by-step explainer",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 13176,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "callmediegojr-236646",
+  "seo_slug": "motion-graphics-collection",
+  "model": "opus-5.5",
+  "author": "CallMeDiegoJr",
+  "author_url": "https://x.com/CallMeDiegoJr",
+  "post_url": "https://x.com/CallMeDiegoJr/status/2113911787565236646",
+  "title": "Motion graphics collection",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 12556,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "flxrnc-550557",
+  "seo_slug": "motion-design-piece-pdf-guide",
+  "model": "opus-5.5",
+  "author": "flxrnc",
+  "author_url": "https://x.com/flxrnc",
+  "post_url": "https://x.com/flxrnc/status/2114020631507550557",
+  "title": "Motion design piece from a PDF guide",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 12511,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "m4lkxx-816588",
+  "seo_slug": "motion-design-render-pdf",
+  "model": "opus-5.5",
+  "author": "m4lkxx",
+  "author_url": "https://x.com/m4lkxx",
+  "post_url": "https://x.com/m4lkxx/status/2113978922949816588",
+  "title": "Motion design render from a PDF",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 11695,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "y0urdumble-503206",
+  "seo_slug": "amber-glass-bottle-cgi-product-ad",
+  "model": "opus-5.5",
+  "author": "Y0urDumble",
+  "author_url": "https://x.com/Y0urDumble",
+  "post_url": "https://x.com/Y0urDumble/status/2114084322227503206",
+  "title": "Amber glass bottle CGI product ad",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "hyperframes",
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 9533,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "scottstts-411347",
+  "seo_slug": "floral-hall-liminal-3d-scene",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2114129525466411347",
+  "title": "Floral Hall liminal 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 7895,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "anxuanng-096407",
+  "seo_slug": "3d-scene-model-comparison",
+  "model": "opus-5.5",
+  "author": "anxuanng",
+  "author_url": "https://x.com/anxuanng",
+  "post_url": "https://x.com/anxuanng/status/2114170540391096407",
+  "title": "3D scene model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 7138,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "nakazakifam-852063",
+  "seo_slug": "after-effects-style-animation-effects-showcase",
+  "model": "opus-5.5",
+  "author": "nakazakifam",
+  "author_url": "https://x.com/nakazakifam",
+  "post_url": "https://x.com/nakazakifam/status/2114202745636852063",
+  "title": "After Effects-style animation effects showcase",
+  "category": "motion",
+  "tech_tags": [
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 6823,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "chibikuro-qnq-696038",
+  "seo_slug": "battle-anime-game-hud-overlay-kinkaku",
+  "model": "opus-5.5",
+  "author": "CHIBIKURO_QnQ",
+  "author_url": "https://x.com/CHIBIKURO_QnQ",
+  "post_url": "https://x.com/CHIBIKURO_QnQ/status/2113962621917696038",
+  "title": "Battle anime with game HUD overlay at Kinkaku-ji",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 6007,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "maxt3chno-221665",
+  "seo_slug": "rigged-3d-shark-swim-bite-animations",
+  "model": "opus-5.5",
+  "author": "maxt3chno",
+  "author_url": "https://x.com/maxt3chno",
+  "post_url": "https://x.com/maxt3chno/status/2113934291818221665",
+  "title": "Rigged 3D shark with swim and bite animations",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 5994,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "vib3coded-215724",
+  "seo_slug": "vault-street-pixel-art-bank-heist",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2114054716959215724",
+  "title": "Vault Street pixel-art bank heist diorama",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 5050,
+   "captured_at": "2026-10-26"
+  }
  }
 ]
