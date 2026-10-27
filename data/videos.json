@@ -82573,5 +82573,807 @@
    "bytes": 3957954,
    "synced_at": "2026-10-26"
   }
+ },
+ {
+  "slug": "gokayfem-604491",
+  "seo_slug": "garden-scene-rebuilt-blender",
+  "model": "opus-5.5",
+  "author": "gokayfem",
+  "author_url": "https://x.com/gokayfem",
+  "post_url": "https://x.com/gokayfem/status/2114314785575604491",
+  "title": "Garden scene rebuilt in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 531108,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "xikhar-353617",
+  "seo_slug": "city-environment",
+  "model": "opus-5.5",
+  "author": "xikhar",
+  "author_url": "https://x.com/xikhar",
+  "post_url": "https://x.com/xikhar/status/2114567234857353617",
+  "title": "Generated city environment",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender",
+   "python"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 320862,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "waterrrmiao-455057",
+  "seo_slug": "code-science-explainer",
+  "model": "opus-5.5",
+  "author": "WaterrrMiao",
+  "author_url": "https://x.com/WaterrrMiao",
+  "post_url": "https://x.com/WaterrrMiao/status/2114585876160455057",
+  "title": "Code-built science explainer",
+  "category": "long-form",
+  "tech_tags": [
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 248104,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "kinderlayer-602417",
+  "seo_slug": "lobe-pump-model-comparison",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2114312573390602417",
+  "title": "Lobe pump model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 223071,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "khazix0918-460341",
+  "seo_slug": "miniature-agent-automation-town",
+  "model": "opus-5.5",
+  "author": "Khazix0918",
+  "author_url": "https://x.com/Khazix0918",
+  "post_url": "https://x.com/Khazix0918/status/2114343004471460341",
+  "title": "Miniature agent automation town",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 119529,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "rehan-shei-159372",
+  "seo_slug": "textured-village-map",
+  "model": "opus-5.5",
+  "author": "rehan_shei",
+  "author_url": "https://x.com/rehan_shei",
+  "post_url": "https://x.com/rehan_shei/status/2114573844858159372",
+  "title": "Textured village map",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 76113,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "seeconvm-931627",
+  "seo_slug": "prompt-driven-video-production",
+  "model": "opus-5.5",
+  "author": "seeconvm",
+  "author_url": "https://x.com/seeconvm",
+  "post_url": "https://x.com/seeconvm/status/2114337298422931627",
+  "title": "Prompt-driven video production",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 53443,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "lexnlin-107201",
+  "seo_slug": "realistic-combustion-simulation",
+  "model": "opus-5.5",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2114370856810107201",
+  "title": "Realistic combustion simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 48087,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "riadetm-437706",
+  "seo_slug": "mach-20-earth-simulator",
+  "model": "opus-5.5",
+  "author": "RiadEtm",
+  "author_url": "https://x.com/RiadEtm",
+  "post_url": "https://x.com/RiadEtm/status/2114350973619437706",
+  "title": "Mach 20 Earth simulator",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 43954,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "johnklerai-934722",
+  "seo_slug": "roblox-project-prototype",
+  "model": "opus-5.5",
+  "author": "JohnKlerAI",
+  "author_url": "https://x.com/JohnKlerAI",
+  "post_url": "https://x.com/JohnKlerAI/status/2114410185464934722",
+  "title": "Roblox project prototype",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 43828,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "cicicic66386703-904465",
+  "seo_slug": "re-rendered-game-environment",
+  "model": "opus-5.5",
+  "author": "cicicic66386703",
+  "author_url": "https://x.com/cicicic66386703",
+  "post_url": "https://x.com/cicicic66386703/status/2114595597449904465",
+  "title": "Re-rendered game environment",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 40646,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "emollick-778347",
+  "seo_slug": "redesigned-book-website",
+  "model": "opus-5.5",
+  "author": "emollick",
+  "author_url": "https://x.com/emollick",
+  "post_url": "https://x.com/emollick/status/2114404221021778347",
+  "title": "Redesigned book website",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 30806,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "lexnlin-110358",
+  "seo_slug": "pianist-sunset-lake",
+  "model": "opus-5.5",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2114422260346110358",
+  "title": "Pianist by a sunset lake",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 26648,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "samamiku4-021452",
+  "seo_slug": "photorealistic-port-fps-game",
+  "model": "opus-5.5",
+  "author": "samamiku4",
+  "author_url": "https://x.com/samamiku4",
+  "post_url": "https://x.com/samamiku4/status/2114303409449021452",
+  "title": "Photorealistic port FPS game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 20474,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "servasyy-ai-893791",
+  "seo_slug": "viral-style-music-video",
+  "model": "opus-5.5",
+  "author": "servasyy_ai",
+  "author_url": "https://x.com/servasyy_ai",
+  "post_url": "https://x.com/servasyy_ai/status/2114311579277893791",
+  "title": "Viral-style music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 19203,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "aimikoda-425988",
+  "seo_slug": "manga-panel-music-video-edit",
+  "model": "opus-5.5",
+  "author": "aimikoda",
+  "author_url": "https://x.com/aimikoda",
+  "post_url": "https://x.com/aimikoda/status/2114477295574425988",
+  "title": "Manga panel music video edit",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 18712,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "0xailabs-480148",
+  "seo_slug": "trebuchet-physics-model-comparison",
+  "model": "opus-5.5",
+  "author": "0xAIlabs",
+  "author_url": "https://x.com/0xAIlabs",
+  "post_url": "https://x.com/0xAIlabs/status/2114297104084480148",
+  "title": "Trebuchet physics model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 16978,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "johnklerai-362335",
+  "seo_slug": "roblox-visual-effects-showcase",
+  "model": "opus-5.5",
+  "author": "JohnKlerAI",
+  "author_url": "https://x.com/JohnKlerAI",
+  "post_url": "https://x.com/JohnKlerAI/status/2114534898237362335",
+  "title": "Roblox visual effects showcase",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 16070,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "alexcooldev-076753",
+  "seo_slug": "real-world-business-tycoon-game",
+  "model": "opus-5.5",
+  "author": "alexcooldev",
+  "author_url": "https://x.com/alexcooldev",
+  "post_url": "https://x.com/alexcooldev/status/2114379700802076753",
+  "title": "Real-world business tycoon game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 15429,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "sammmaing-257104",
+  "seo_slug": "scrolling-house-construction-concepts",
+  "model": "opus-5.5",
+  "author": "SammmAing",
+  "author_url": "https://x.com/SammmAing",
+  "post_url": "https://x.com/SammmAing/status/2114546079618257104",
+  "title": "Scrolling house construction concepts",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 14734,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "gengdaj-924921",
+  "seo_slug": "match-girl-3d-story-game",
+  "model": "opus-5.5",
+  "author": "gengdaJ",
+  "author_url": "https://x.com/gengdaJ",
+  "post_url": "https://x.com/gengdaJ/status/2114350632215924921",
+  "title": "Match Girl 3D story game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 14591,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "thebuggeddev-739331",
+  "seo_slug": "flying-road-bike-simulation",
+  "model": "opus-5.5",
+  "author": "thebuggeddev",
+  "author_url": "https://x.com/thebuggeddev",
+  "post_url": "https://x.com/thebuggeddev/status/2114377433369739331",
+  "title": "Flying road bike simulation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 12890,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "yaohongan2025-269293",
+  "seo_slug": "grok-bot-template-video-guide",
+  "model": "opus-5.5",
+  "author": "yaohongan2025",
+  "author_url": "https://x.com/yaohongan2025",
+  "post_url": "https://x.com/yaohongan2025/status/2114335185915269293",
+  "title": "Grok Bot template video guide",
+  "category": "long-form",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 12605,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "aldegadwildkim-326721",
+  "seo_slug": "pixel-art-side-side-comparison",
+  "model": "opus-5.5",
+  "author": "AldegadWildKim",
+  "author_url": "https://x.com/AldegadWildKim",
+  "post_url": "https://x.com/AldegadWildKim/status/2114571124944326721",
+  "title": "Pixel art side-by-side comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 12247,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "meticulai-692735",
+  "seo_slug": "modular-mech-multiplayer-shooter",
+  "model": "opus-5.5",
+  "author": "MeticulAi",
+  "author_url": "https://x.com/MeticulAi",
+  "post_url": "https://x.com/MeticulAi/status/2114414035726692735",
+  "title": "Modular mech multiplayer shooter",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 11701,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "vib3coded-615723",
+  "seo_slug": "interactive-jelly-dam-simulation",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2114512807500615723",
+  "title": "Interactive jelly dam simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 9850,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "heyabhishek-950878",
+  "seo_slug": "penguin-hauls-giant-apple-bark-sled",
+  "model": "opus-5.5",
+  "author": "HeyAbhishek",
+  "author_url": "https://x.com/HeyAbhishek",
+  "post_url": "https://x.com/HeyAbhishek/status/2114340975132950878",
+  "title": "Penguin hauls a giant apple on a bark sled",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 9804,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "aj-dev-smith-107354",
+  "seo_slug": "procedural-pixel-art-game-rebuild",
+  "model": "opus-5.5",
+  "author": "aj_dev_smith",
+  "author_url": "https://x.com/aj_dev_smith",
+  "post_url": "https://x.com/aj_dev_smith/status/2114570392539107354",
+  "title": "Procedural pixel-art game rebuild",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 9257,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "huangyun-122-491070",
+  "seo_slug": "archival-style-bilingual-speech-video",
+  "model": "opus-5.5",
+  "author": "huangyun_122",
+  "author_url": "https://x.com/huangyun_122",
+  "post_url": "https://x.com/huangyun_122/status/2114417230792491070",
+  "title": "Archival-style bilingual speech video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 8442,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "aimikoda-516157",
+  "seo_slug": "beat-synced-video-edit",
+  "model": "opus-5.5",
+  "author": "aimikoda",
+  "author_url": "https://x.com/aimikoda",
+  "post_url": "https://x.com/aimikoda/status/2114356633849516157",
+  "title": "Beat-synced video edit",
+  "category": "motion",
+  "tech_tags": [
+   "python",
+   "ffmpeg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 8119,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "ashen-one-739508",
+  "seo_slug": "superhero-flying-game-world",
+  "model": "opus-5.5",
+  "author": "ashen_one",
+  "author_url": "https://x.com/ashen_one",
+  "post_url": "https://x.com/ashen_one/status/2114414708270739508",
+  "title": "Superhero flying game world",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 7931,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "rewind02-002226",
+  "seo_slug": "office-scene-rebuilt-3ds-max-reference",
+  "model": "opus-5.5",
+  "author": "rewind02",
+  "author_url": "https://x.com/rewind02",
+  "post_url": "https://x.com/rewind02/status/2114316443261002226",
+  "title": "Office scene rebuilt in 3ds Max from reference",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 7383,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "chibikuro-qnq-998934",
+  "seo_slug": "kyoto-autumn-foliage-travel-program",
+  "model": "opus-5.5",
+  "author": "CHIBIKURO_QnQ",
+  "author_url": "https://x.com/CHIBIKURO_QnQ",
+  "post_url": "https://x.com/CHIBIKURO_QnQ/status/2114324847966998934",
+  "title": "Kyoto autumn foliage travel program",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 7175,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "scottstts-908614",
+  "seo_slug": "dreamcore-liminal-space",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2114404473644908614",
+  "title": "Dreamcore liminal space",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 7173,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "chetaslua-853217",
+  "seo_slug": "dance-based-math-function-visualisation",
+  "model": "opus-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2114277081349853217",
+  "title": "Dance-based math function visualisation",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 6995,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "xteslahabbo-919082",
+  "seo_slug": "interactive-habbo-video-wall",
+  "model": "opus-5.5",
+  "author": "xTeslaHabbo",
+  "author_url": "https://x.com/xTeslaHabbo",
+  "post_url": "https://x.com/xTeslaHabbo/status/2114434592702919082",
+  "title": "Interactive Habbo video wall",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 6867,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "n1njacodex-322353",
+  "seo_slug": "interactive-pixel-art-swimming-club",
+  "model": "opus-5.5",
+  "author": "N1njaCodex",
+  "author_url": "https://x.com/N1njaCodex",
+  "post_url": "https://x.com/N1njaCodex/status/2114467181912322353",
+  "title": "Interactive pixel art swimming club",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 6455,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "kinnievfx-465924",
+  "seo_slug": "roblox-real-time-visual-effects",
+  "model": "opus-5.5",
+  "author": "kinnievfx",
+  "author_url": "https://x.com/kinnievfx",
+  "post_url": "https://x.com/kinnievfx/status/2114514200735465924",
+  "title": "Roblox real-time visual effects",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 6188,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "haleeeemahh-709526",
+  "seo_slug": "model-comparison-shared-task",
+  "model": "opus-5.5",
+  "author": "Haleeeemahh",
+  "author_url": "https://x.com/Haleeeemahh",
+  "post_url": "https://x.com/Haleeeemahh/status/2114392673947709526",
+  "title": "Model comparison on a shared task",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 5576,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "vib3coded-410489",
+  "seo_slug": "jelly-kiwi-model-comparison",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2114441029638410489",
+  "title": "Jelly kiwi model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 5341,
+   "captured_at": "2026-10-27"
+  }
  }
 ]
