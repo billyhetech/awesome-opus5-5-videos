@@ -74395,8 +74395,16 @@
    "captured_at": "2026-10-21"
   },
   "media": {
-   "status": "unavailable",
-   "checked_at": "2026-10-21"
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 27456,
+   "bytes": 4878246,
+   "synced_at": "2026-10-28"
   }
  },
  {
