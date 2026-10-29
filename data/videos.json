@@ -85303,5 +85303,548 @@
    "bytes": 2444923,
    "synced_at": "2026-10-28"
   }
+ },
+ {
+  "slug": "lucas-martinic-561477",
+  "seo_slug": "mario-64-mixed-reality-game",
+  "model": "opus-5.5",
+  "author": "lucas_martinic",
+  "author_url": "https://x.com/lucas_martinic",
+  "post_url": "https://x.com/lucas_martinic/status/2115027510492561477",
+  "title": "Mario 64 mixed reality game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 844439,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "seeconvm-052776",
+  "seo_slug": "pdf-driven-motion-design",
+  "model": "opus-5.5",
+  "author": "seeconvm",
+  "author_url": "https://x.com/seeconvm",
+  "post_url": "https://x.com/seeconvm/status/2115056349235052776",
+  "title": "PDF-driven motion design",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 162987,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "dhruvalgolakiya-104086",
+  "seo_slug": "playable-game-blender-unreal",
+  "model": "opus-5.5",
+  "author": "dhruvalgolakiya",
+  "author_url": "https://x.com/dhruvalgolakiya",
+  "post_url": "https://x.com/dhruvalgolakiya/status/2115106296794104086",
+  "title": "Playable game built with Blender and Unreal",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 95035,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "frenchthefryy-770451",
+  "seo_slug": "minecraft-world-imported-into-roblox",
+  "model": "opus-5.5",
+  "author": "FrenchTheFryy",
+  "author_url": "https://x.com/FrenchTheFryy",
+  "post_url": "https://x.com/FrenchTheFryy/status/2115205670819770451",
+  "title": "Minecraft world imported into Roblox",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 87632,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "keydol123-817610",
+  "seo_slug": "cozy-sunset-watermill-world",
+  "model": "opus-5.5",
+  "author": "keydol123",
+  "author_url": "https://x.com/keydol123",
+  "post_url": "https://x.com/keydol123/status/2115168883040817610",
+  "title": "Cozy sunset watermill world",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 67991,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "nolgthorn-672487",
+  "seo_slug": "forsaken-game-recreated-roblox",
+  "model": "opus-5.5",
+  "author": "Nolgthorn",
+  "author_url": "https://x.com/Nolgthorn",
+  "post_url": "https://x.com/Nolgthorn/status/2115242108877672487",
+  "title": "Forsaken game recreated in Roblox",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 62197,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "y0urdumble-151552",
+  "seo_slug": "true-story-cartoon-short-2d-characters",
+  "model": "opus-5.5",
+  "author": "Y0urDumble",
+  "author_url": "https://x.com/Y0urDumble",
+  "post_url": "https://x.com/Y0urDumble/status/2115193601458151552",
+  "title": "True-story cartoon short with 2D characters and 3D sets",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 60600,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "29meat-ai-570564",
+  "seo_slug": "dancing-character-clip-added-camera-work",
+  "model": "opus-5.5",
+  "author": "29meat_ai",
+  "author_url": "https://x.com/29meat_ai",
+  "post_url": "https://x.com/29meat_ai/status/2115038221801570564",
+  "title": "Dancing character clip with added camera work and sound",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 53034,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "aygramm-111369",
+  "seo_slug": "one-minute-animated-explainer",
+  "model": "opus-5.5",
+  "author": "Aygramm_",
+  "author_url": "https://x.com/Aygramm_",
+  "post_url": "https://x.com/Aygramm_/status/2115166136212111369",
+  "title": "One-minute animated explainer",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 39280,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "davelee-968983",
+  "seo_slug": "tennis-timing-practice-game-kids",
+  "model": "opus-5.5",
+  "author": "davelee",
+  "author_url": "https://x.com/davelee",
+  "post_url": "https://x.com/davelee/status/2115261071883968983",
+  "title": "Tennis timing practice game for kids",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 33953,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "0xnicc0-998134",
+  "seo_slug": "motion-design-animation-pdf-guide",
+  "model": "opus-5.5",
+  "author": "0xnicc0",
+  "author_url": "https://x.com/0xnicc0",
+  "post_url": "https://x.com/0xnicc0/status/2115109842641998134",
+  "title": "Motion design animation generated from a PDF guide",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 29842,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "aniketjart-225954",
+  "seo_slug": "dragon-ball-fan-game-level-2",
+  "model": "opus-5.5",
+  "author": "aniketjart",
+  "author_url": "https://x.com/aniketjart",
+  "post_url": "https://x.com/aniketjart/status/2115286870150225954",
+  "title": "Dragon Ball fan game level 2",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 25373,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "theparuchh-759611",
+  "seo_slug": "single-player-story-rpg-orc-hero",
+  "model": "opus-5.5",
+  "author": "theparuchh",
+  "author_url": "https://x.com/theparuchh",
+  "post_url": "https://x.com/theparuchh/status/2115133076904759611",
+  "title": "Single-player story RPG with orc hero",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 24599,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "vib3coded-225283",
+  "seo_slug": "jelly-dolphin-physics-comparison",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115015297195225283",
+  "title": "Jelly dolphin physics comparison",
+  "category": "motion",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 18426,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "0xrhinox-333649",
+  "seo_slug": "rainbow-jelly-bear-rendering-comparison",
+  "model": "opus-5.5",
+  "author": "0xRhinoX",
+  "author_url": "https://x.com/0xRhinoX",
+  "post_url": "https://x.com/0xRhinoX/status/2115170731055333649",
+  "title": "Rainbow jelly bear rendering comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 16793,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "viktoroddy-825962",
+  "seo_slug": "branding-agency-landing-page-comparison",
+  "model": "opus-5.5",
+  "author": "viktoroddy",
+  "author_url": "https://x.com/viktoroddy",
+  "post_url": "https://x.com/viktoroddy/status/2115039597436825962",
+  "title": "Branding agency landing page comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 16234,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "scottstts-152146",
+  "seo_slug": "shiokaze-sea-breeze-3d-scene",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2115228485304152146",
+  "title": "Shiokaze sea breeze 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 14139,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "mmmiyama-d-716899",
+  "seo_slug": "chatgpt-plugin-installation-guide-website",
+  "model": "opus-5.5",
+  "author": "mmmiyama_D",
+  "author_url": "https://x.com/mmmiyama_D",
+  "post_url": "https://x.com/mmmiyama_D/status/2115203917277716899",
+  "title": "ChatGPT plugin installation guide website",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 13412,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "kanaworks-ai-325950",
+  "seo_slug": "godot-plugin-pops-2d-tilemaps-into",
+  "model": "opus-5.5",
+  "author": "KanaWorks_AI",
+  "author_url": "https://x.com/KanaWorks_AI",
+  "post_url": "https://x.com/KanaWorks_AI/status/2115011274023325950",
+  "title": "Godot plugin that pops 2D tilemaps into 3D dioramas",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 11325,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "canitcode-382159",
+  "seo_slug": "boss-fight-unreal-engine-video-motions",
+  "model": "opus-5.5",
+  "author": "CanItCode",
+  "author_url": "https://x.com/CanItCode",
+  "post_url": "https://x.com/CanItCode/status/2115143705342382159",
+  "title": "Boss fight built in Unreal Engine from video motions",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 10362,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "anxuanng-783107",
+  "seo_slug": "vietnamese-tube-house-typhoon-preparation-simulation",
+  "model": "opus-5.5",
+  "author": "anxuanng",
+  "author_url": "https://x.com/anxuanng",
+  "post_url": "https://x.com/anxuanng/status/2115175640198783107",
+  "title": "Vietnamese tube house typhoon preparation simulation",
+  "category": "explainer",
+  "tech_tags": [
+   "blender",
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 10177,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "rionaifantasy-736396",
+  "seo_slug": "explorable-3d-sydney-city",
+  "model": "opus-5.5",
+  "author": "rionaifantasy",
+  "author_url": "https://x.com/rionaifantasy",
+  "post_url": "https://x.com/rionaifantasy/status/2115062250398736396",
+  "title": "Explorable 3D Sydney city",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 9933,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "kinderlayer-988553",
+  "seo_slug": "four-model-test-stone-hand-pump",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2115039207856988553",
+  "title": "Four-model test of a stone hand pump pumping water",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 9017,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "vib3coded-823065",
+  "seo_slug": "3d-pixel-art-streetball-court-comparison",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115106186831823065",
+  "title": "3D pixel-art streetball court comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 8381,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "aimikoda-656126",
+  "seo_slug": "satoru-gojo-temporal-grid-video-edit",
+  "model": "opus-5.5",
+  "author": "aimikoda",
+  "author_url": "https://x.com/aimikoda",
+  "post_url": "https://x.com/aimikoda/status/2115118260060656126",
+  "title": "Satoru Gojo temporal grid video edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 8165,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "techartist-559140",
+  "seo_slug": "3d-holographic-book-newtons-laws",
+  "model": "opus-5.5",
+  "author": "techartist_",
+  "author_url": "https://x.com/techartist_",
+  "post_url": "https://x.com/techartist_/status/2115122099161559140",
+  "title": "3D holographic book on Newton's laws",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 7902,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "0x-mura-226402",
+  "seo_slug": "interactive-rubiks-cube-mechanics-explainer",
+  "model": "opus-5.5",
+  "author": "0x_mura",
+  "author_url": "https://x.com/0x_mura",
+  "post_url": "https://x.com/0x_mura/status/2115026640795226402",
+  "title": "Interactive Rubik's cube mechanics explainer",
+  "category": "explainer",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 6458,
+   "captured_at": "2026-10-29"
+  }
  }
 ]
