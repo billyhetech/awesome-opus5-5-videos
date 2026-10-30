@@ -86170,5 +86170,546 @@
    "bytes": 2351616,
    "synced_at": "2026-10-29"
   }
+ },
+ {
+  "slug": "mr-salio-673599",
+  "seo_slug": "3d-generation-comparison-against-gemini-4",
+  "model": "opus-5.5",
+  "author": "Mr_Salio",
+  "author_url": "https://x.com/Mr_Salio",
+  "post_url": "https://x.com/Mr_Salio/status/2115538112004673599",
+  "title": "3D generation comparison against Gemini 4 Carbon",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 184711,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "nakazakifam-036905",
+  "seo_slug": "two-host-ai-avatar-video-podcast",
+  "model": "opus-5.5",
+  "author": "nakazakifam",
+  "author_url": "https://x.com/nakazakifam",
+  "post_url": "https://x.com/nakazakifam/status/2115421296662036905",
+  "title": "Two-host AI avatar video podcast",
+  "category": "motion",
+  "tech_tags": [
+   "elevenlabs",
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 93166,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "artificialanlys-748492",
+  "seo_slug": "robot-arm-writing-hello-world-two",
+  "model": "opus-5.5",
+  "author": "ArtificialAnlys",
+  "author_url": "https://x.com/ArtificialAnlys",
+  "post_url": "https://x.com/ArtificialAnlys/status/2115567357506748492",
+  "title": "Robot arm writing hello world, two models compared",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 58954,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "bizdevelo-779573",
+  "seo_slug": "short-form-viral-videos-account",
+  "model": "opus-5.5",
+  "author": "bizdevelo",
+  "author_url": "https://x.com/bizdevelo",
+  "post_url": "https://x.com/bizdevelo/status/2115408359771779573",
+  "title": "Short-form viral videos for a new account",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 57121,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "dilumsanjaya-089201",
+  "seo_slug": "interactive-survival-skills-learning-app",
+  "model": "opus-5.5",
+  "author": "DilumSanjaya",
+  "author_url": "https://x.com/DilumSanjaya",
+  "post_url": "https://x.com/DilumSanjaya/status/2115488004425089201",
+  "title": "Interactive survival skills learning app",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 52706,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "luckeyfaraday-402987",
+  "seo_slug": "mickey-mouse-3d-recreation-two-models",
+  "model": "opus-5.5",
+  "author": "luckeyfaraday",
+  "author_url": "https://x.com/luckeyfaraday",
+  "post_url": "https://x.com/luckeyfaraday/status/2115459494163402987",
+  "title": "Mickey Mouse 3D recreation, two models compared",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 46800,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "kinderlayer-247275",
+  "seo_slug": "bird-panther-single-shot-transformation",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2115496867681247275",
+  "title": "Bird to panther single-shot transformation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 44277,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "techartist-392277",
+  "seo_slug": "interactive-biology-lesson-oxygen-air-cells",
+  "model": "opus-5.5",
+  "author": "techartist_",
+  "author_url": "https://x.com/techartist_",
+  "post_url": "https://x.com/techartist_/status/2115565230772392277",
+  "title": "Interactive biology lesson on oxygen from air to cells",
+  "category": "explainer",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 32216,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "scottstts-603545",
+  "seo_slug": "sink-village-3d-scene-subagents",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2115439498729603545",
+  "title": "Sink Village 3D scene built with subagents",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 28700,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "0xwast3-590977",
+  "seo_slug": "procedural-city-blender-node-tree",
+  "model": "opus-5.5",
+  "author": "0xWast3",
+  "author_url": "https://x.com/0xWast3",
+  "post_url": "https://x.com/0xWast3/status/2115482577712590977",
+  "title": "Procedural city built from a Blender node tree",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 26513,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "devteamdrew-286477",
+  "seo_slug": "visualization-how-subagents-work",
+  "model": "opus-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2115581339357286477",
+  "title": "Visualization of how subagents work",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 25217,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "slashui-225085",
+  "seo_slug": "interactive-biology-lesson-oxygen-air-cells-by-slashui",
+  "model": "opus-5.5",
+  "author": "slashui",
+  "author_url": "https://x.com/slashui",
+  "post_url": "https://x.com/slashui/status/2115632086707225085",
+  "title": "Interactive biology lesson on oxygen from air to cells",
+  "category": "explainer",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 22265,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "m-houser-190285",
+  "seo_slug": "aestra-permadeath-online-rpg",
+  "model": "opus-5.5",
+  "author": "M__Houser",
+  "author_url": "https://x.com/M__Houser",
+  "post_url": "https://x.com/M__Houser/status/2115438489995190285",
+  "title": "Aestra permadeath online RPG",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 21944,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "shikamarurobo-759838",
+  "seo_slug": "fully-automated-youtube-video-edit",
+  "model": "opus-5.5",
+  "author": "shikamarurobo",
+  "author_url": "https://x.com/shikamarurobo",
+  "post_url": "https://x.com/shikamarurobo/status/2115565614475759838",
+  "title": "Fully automated YouTube video edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 20078,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "theparuchh-063617",
+  "seo_slug": "animated-eight-legged-mite-game-creature",
+  "model": "opus-5.5",
+  "author": "theparuchh",
+  "author_url": "https://x.com/theparuchh",
+  "post_url": "https://x.com/theparuchh/status/2115508738891063617",
+  "title": "Animated eight-legged mite game creature",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 18857,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "asynkimo-392937",
+  "seo_slug": "platformer-sprites-animations",
+  "model": "opus-5.5",
+  "author": "asynkimo",
+  "author_url": "https://x.com/asynkimo",
+  "post_url": "https://x.com/asynkimo/status/2115422615439392937",
+  "title": "Platformer with generated sprites and animations",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 18529,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "kinderlayer-334204",
+  "seo_slug": "cutaway-hand-pump-animation-comparison",
+  "model": "opus-5.5",
+  "author": "kinderlayer",
+  "author_url": "https://x.com/kinderlayer",
+  "post_url": "https://x.com/kinderlayer/status/2115399473006334204",
+  "title": "Cutaway hand pump animation comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 17326,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "envoldev-113527",
+  "seo_slug": "night-train-scene-comparison",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2115435414232113527",
+  "title": "Night Train scene comparison",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 16248,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "vib3coded-893904",
+  "seo_slug": "interactive-jelly-hammerhead-shark",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115402023935893904",
+  "title": "Interactive jelly hammerhead shark",
+  "category": "motion",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 14993,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "anibal-940689",
+  "seo_slug": "contrast-edit-venezuelan-political-rally-footage",
+  "model": "opus-5.5",
+  "author": "anibal",
+  "author_url": "https://x.com/anibal",
+  "post_url": "https://x.com/anibal/status/2115608213059940689",
+  "title": "Contrast edit of Venezuelan political rally footage",
+  "category": "motion",
+  "tech_tags": [
+   "python"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 13819,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "0xbobaaa-035178",
+  "seo_slug": "floating-island-town-day-night-3d",
+  "model": "opus-5.5",
+  "author": "0xbobaaa",
+  "author_url": "https://x.com/0xbobaaa",
+  "post_url": "https://x.com/0xbobaaa/status/2115486834755035178",
+  "title": "Floating island town from day to night, 3D short film",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 12996,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "lexnlin-687944",
+  "seo_slug": "design-creativity-tests-short-prompts",
+  "model": "opus-5.5",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2115485798216687944",
+  "title": "Design creativity tests from short prompts",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 12306,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "vib3coded-240630",
+  "seo_slug": "pixel-art-floating-island-lido-across",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115595806665240630",
+  "title": "Pixel-art floating island lido across four models",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 12164,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "anstapnever-098233",
+  "seo_slug": "20-second-coded-motion-design-clip",
+  "model": "opus-5.5",
+  "author": "anstapnever",
+  "author_url": "https://x.com/anstapnever",
+  "post_url": "https://x.com/anstapnever/status/2115383752776098233",
+  "title": "20-second coded motion design clip",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 11030,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "0xwhrrari-201208",
+  "seo_slug": "short-coded-motion-design-clip",
+  "model": "opus-5.5",
+  "author": "0xwhrrari",
+  "author_url": "https://x.com/0xwhrrari",
+  "post_url": "https://x.com/0xwhrrari/status/2115473687466201208",
+  "title": "Short coded motion design clip",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 10135,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "kadokis-684185",
+  "seo_slug": "early-roblox-recreated-inside-roblox",
+  "model": "opus-5.5",
+  "author": "_kadokis",
+  "author_url": "https://x.com/_kadokis",
+  "post_url": "https://x.com/_kadokis/status/2115551949831684185",
+  "title": "Early Roblox recreated inside Roblox",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 8920,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "kubai087-681875",
+  "seo_slug": "animated-bento-feature-grid-product-site",
+  "model": "opus-5.5",
+  "author": "Kubai087",
+  "author_url": "https://x.com/Kubai087",
+  "post_url": "https://x.com/Kubai087/status/2115393082472681875",
+  "title": "Animated bento feature grid for a product site",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 8771,
+   "captured_at": "2026-10-30"
+  }
  }
 ]
