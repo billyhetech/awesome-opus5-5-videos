@@ -87035,5 +87035,767 @@
    "bytes": 910287,
    "synced_at": "2026-10-30"
   }
+ },
+ {
+  "slug": "zin257856782-195523",
+  "seo_slug": "unfinished-ai-assisted-strategy-game",
+  "model": "opus-5.5",
+  "author": "zin257856782",
+  "author_url": "https://x.com/zin257856782",
+  "post_url": "https://x.com/zin257856782/status/2115968923053195523",
+  "title": "Unfinished AI-assisted strategy game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 596352,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "belbizaz-915826",
+  "seo_slug": "frog-king-browser-simulator",
+  "model": "opus-5.5",
+  "author": "Belbizaz",
+  "author_url": "https://x.com/Belbizaz",
+  "post_url": "https://x.com/Belbizaz/status/2115878504067915826",
+  "title": "Frog King browser simulator",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 345852,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "mengto-448353",
+  "seo_slug": "family-d-d-game-ai-game",
+  "model": "opus-5.5",
+  "author": "MengTo",
+  "author_url": "https://x.com/MengTo",
+  "post_url": "https://x.com/MengTo/status/2115756268925448353",
+  "title": "Family D&D game with an AI game master",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 177683,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "0xmovez-326503",
+  "seo_slug": "cross-platform-disk-cleanup-app",
+  "model": "opus-5.5",
+  "author": "0xMovez",
+  "author_url": "https://x.com/0xMovez",
+  "post_url": "https://x.com/0xMovez/status/2115870373300326503",
+  "title": "Cross-platform disk cleanup app",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 136931,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "mickeyxfriedman-287552",
+  "seo_slug": "generative-javascript-artwork",
+  "model": "opus-5.5",
+  "author": "mickeyxfriedman",
+  "author_url": "https://x.com/mickeyxfriedman",
+  "post_url": "https://x.com/mickeyxfriedman/status/2115932308138287552",
+  "title": "Generative JavaScript artwork",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 95798,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "noclipepe-550313",
+  "seo_slug": "chrome-dino-model-comparison",
+  "model": "opus-5.5",
+  "author": "noclipepe",
+  "author_url": "https://x.com/noclipepe",
+  "post_url": "https://x.com/noclipepe/status/2115953941808550313",
+  "title": "Chrome Dino model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 93953,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "paweljlisowski-496025",
+  "seo_slug": "browser-game-development-progress",
+  "model": "opus-5.5",
+  "author": "PawelJLisowski",
+  "author_url": "https://x.com/PawelJLisowski",
+  "post_url": "https://x.com/PawelJLisowski/status/2115912672604496025",
+  "title": "Browser game development progress",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 81690,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "vraserx-420444",
+  "seo_slug": "3d-animation-render-comparison",
+  "model": "opus-5.5",
+  "author": "VraserX",
+  "author_url": "https://x.com/VraserX",
+  "post_url": "https://x.com/VraserX/status/2115721297724420444",
+  "title": "3D animation render comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 79017,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "0xrhinox-200515",
+  "seo_slug": "rainbow-jelly-simulation-comparison",
+  "model": "opus-5.5",
+  "author": "0xRhinoX",
+  "author_url": "https://x.com/0xRhinoX",
+  "post_url": "https://x.com/0xRhinoX/status/2115891194383200515",
+  "title": "Rainbow jelly simulation comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 77750,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "haleeeemahh-708975",
+  "seo_slug": "side-side-model-output-comparison-by-haleeeemahh",
+  "model": "opus-5.5",
+  "author": "Haleeeemahh",
+  "author_url": "https://x.com/Haleeeemahh",
+  "post_url": "https://x.com/Haleeeemahh/status/2115819373973708975",
+  "title": "Side-by-side model output comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 59466,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "0xnicc0-102495",
+  "seo_slug": "motion-design-piece-pdf-brief",
+  "model": "opus-5.5",
+  "author": "0xnicc0",
+  "author_url": "https://x.com/0xnicc0",
+  "post_url": "https://x.com/0xnicc0/status/2115785376292102495",
+  "title": "Motion design piece from a PDF brief",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 54960,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "finnardley-770351",
+  "seo_slug": "stickman-survival-thriller",
+  "model": "opus-5.5",
+  "author": "finnardley",
+  "author_url": "https://x.com/finnardley",
+  "post_url": "https://x.com/finnardley/status/2115786060231770351",
+  "title": "Stickman survival thriller",
+  "category": "motion",
+  "tech_tags": [
+   "threejs",
+   "ffmpeg",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 39531,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "keyfobe-704205",
+  "seo_slug": "voice-negotiation-game-merchant",
+  "model": "opus-5.5",
+  "author": "Keyfobe",
+  "author_url": "https://x.com/Keyfobe",
+  "post_url": "https://x.com/Keyfobe/status/2115822157242704205",
+  "title": "Voice negotiation with a game merchant",
+  "category": "games-interactive",
+  "tech_tags": [
+   "python"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 34774,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "jasteinerman-798874",
+  "seo_slug": "realistic-interactive-3d-scene",
+  "model": "opus-5.5",
+  "author": "jasteinerman",
+  "author_url": "https://x.com/jasteinerman",
+  "post_url": "https://x.com/jasteinerman/status/2115852348018798874",
+  "title": "Realistic interactive 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 34698,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "mrtacticalx-941008",
+  "seo_slug": "physics-based-falling-oak-tree",
+  "model": "opus-5.5",
+  "author": "MrTacticalX",
+  "author_url": "https://x.com/MrTacticalX",
+  "post_url": "https://x.com/MrTacticalX/status/2115768888507941008",
+  "title": "Physics-based falling oak tree",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 34350,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "noclipepe-757827",
+  "seo_slug": "robotic-eye-3d-animation-comparison",
+  "model": "opus-5.5",
+  "author": "noclipepe",
+  "author_url": "https://x.com/noclipepe",
+  "post_url": "https://x.com/noclipepe/status/2115728069398757827",
+  "title": "Robotic eye 3D animation comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 29824,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "vincentwei93-679394",
+  "seo_slug": "open-source-motion-shot-library-promo",
+  "model": "opus-5.5",
+  "author": "VincentWei93",
+  "author_url": "https://x.com/VincentWei93",
+  "post_url": "https://x.com/VincentWei93/status/2115797250689679394",
+  "title": "Open-source motion shot library for promo videos",
+  "category": "motion",
+  "tech_tags": [
+   "remotion"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 26904,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "rewind02-728259",
+  "seo_slug": "rigged-animated-hooded-hunter-game-character",
+  "model": "opus-5.5",
+  "author": "rewind02",
+  "author_url": "https://x.com/rewind02",
+  "post_url": "https://x.com/rewind02/status/2115779810932728259",
+  "title": "Rigged and animated hooded hunter game character",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 26310,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "konstantinsaifo-345861",
+  "seo_slug": "browser-physics-simulation-robot-packing-cell",
+  "model": "opus-5.5",
+  "author": "konstantinsaifo",
+  "author_url": "https://x.com/konstantinsaifo",
+  "post_url": "https://x.com/konstantinsaifo/status/2115722519336345861",
+  "title": "Browser physics simulation of a robot packing cell",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 25444,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "envoldev-027677",
+  "seo_slug": "helicopter-rotor-swashplate-mechanism-across-four",
+  "model": "opus-5.5",
+  "author": "EnvolDev",
+  "author_url": "https://x.com/EnvolDev",
+  "post_url": "https://x.com/EnvolDev/status/2115891986633027677",
+  "title": "Helicopter rotor swashplate mechanism across four models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 21166,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "scottstts-385445",
+  "seo_slug": "toward-beyond-3d-journey-scene",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2115883707072385445",
+  "title": "Toward the Beyond, a 3D journey scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 20075,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "friedpotato2722-982233",
+  "seo_slug": "tower-defense-game-recreated-roblox",
+  "model": "opus-5.5",
+  "author": "friedPotato2722",
+  "author_url": "https://x.com/friedPotato2722",
+  "post_url": "https://x.com/friedPotato2722/status/2115785281445982233",
+  "title": "Tower defense game recreated in Roblox",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 18230,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "elvar-official-958984",
+  "seo_slug": "interactive-cross-plane-v8-engine-simulation",
+  "model": "opus-5.5",
+  "author": "elvar_official",
+  "author_url": "https://x.com/elvar_official",
+  "post_url": "https://x.com/elvar_official/status/2115882221319958984",
+  "title": "Interactive cross-plane V8 engine simulation",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 17271,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "0x-fokki-236681",
+  "seo_slug": "robot-jellyfish-splits-apart-three-clicks",
+  "model": "opus-5.5",
+  "author": "0x_fokki",
+  "author_url": "https://x.com/0x_fokki",
+  "post_url": "https://x.com/0x_fokki/status/2115890589556236681",
+  "title": "Robot jellyfish that splits apart in three clicks",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 16816,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "aygramm-659746",
+  "seo_slug": "motion-ads-chipper",
+  "model": "opus-5.5",
+  "author": "Aygramm_",
+  "author_url": "https://x.com/Aygramm_",
+  "post_url": "https://x.com/Aygramm_/status/2115759392192659746",
+  "title": "Motion ads for Chipper",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 14910,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "breejeanadkat-583179",
+  "seo_slug": "animated-app-paywall-design",
+  "model": "opus-5.5",
+  "author": "BreejeAnadkat",
+  "author_url": "https://x.com/BreejeAnadkat",
+  "post_url": "https://x.com/BreejeAnadkat/status/2115749240823583179",
+  "title": "Animated app paywall design",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 14648,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "techartist-039593",
+  "seo_slug": "3d-book-birds-as-living-dinosaurs",
+  "model": "opus-5.5",
+  "author": "techartist_",
+  "author_url": "https://x.com/techartist_",
+  "post_url": "https://x.com/techartist_/status/2115846417873039593",
+  "title": "3D book on birds as living dinosaurs",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 14522,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "therealryc-456739",
+  "seo_slug": "interactive-12-lead-ekg-atlas-3d",
+  "model": "opus-5.5",
+  "author": "therealRYC",
+  "author_url": "https://x.com/therealRYC",
+  "post_url": "https://x.com/therealRYC/status/2115898852704456739",
+  "title": "Interactive 12-lead EKG atlas with 3D heart",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 14181,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "ann-nnng-979978",
+  "seo_slug": "tearable-mesh-reveals-artwork",
+  "model": "opus-5.5",
+  "author": "ann_nnng",
+  "author_url": "https://x.com/ann_nnng",
+  "post_url": "https://x.com/ann_nnng/status/2115780819142979978",
+  "title": "Tearable mesh that reveals artwork",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 13995,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "mrtacticalx-560526",
+  "seo_slug": "shaken-oak-tree-physics-blender-model",
+  "model": "opus-5.5",
+  "author": "MrTacticalX",
+  "author_url": "https://x.com/MrTacticalX",
+  "post_url": "https://x.com/MrTacticalX/status/2115833056208560526",
+  "title": "Shaken oak tree physics in Blender, model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 12202,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "zeuuss-01-431257",
+  "seo_slug": "human-anatomy-explainer-video",
+  "model": "opus-5.5",
+  "author": "zeuuss_01",
+  "author_url": "https://x.com/zeuuss_01",
+  "post_url": "https://x.com/zeuuss_01/status/2115889104617431257",
+  "title": "Human anatomy explainer video",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 11421,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "maxt3chno-458763",
+  "seo_slug": "realistic-web-water-shader",
+  "model": "opus-5.5",
+  "author": "maxt3chno",
+  "author_url": "https://x.com/maxt3chno",
+  "post_url": "https://x.com/maxt3chno/status/2115862732637458763",
+  "title": "Realistic web water shader",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 11066,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "aniketjart-225589",
+  "seo_slug": "dragon-ball-turtle-rescue-game-level",
+  "model": "opus-5.5",
+  "author": "aniketjart",
+  "author_url": "https://x.com/aniketjart",
+  "post_url": "https://x.com/aniketjart/status/2115710904021225589",
+  "title": "Dragon Ball turtle rescue game level",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 8949,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "scottstts-724307",
+  "seo_slug": "fallen-titan-3d-scene",
+  "model": "opus-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2115933104812724307",
+  "title": "Fallen Titan 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 8227,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "dromexa-497491",
+  "seo_slug": "x-ray-exploded-cafe-racer-3d",
+  "model": "opus-5.5",
+  "author": "dromexa",
+  "author_url": "https://x.com/dromexa",
+  "post_url": "https://x.com/dromexa/status/2115802517942497491",
+  "title": "X-ray and exploded café racer 3D model",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 6725,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "kanaworks-ai-329400",
+  "seo_slug": "pack-90-anime-style-skill-effects",
+  "model": "opus-5.5",
+  "author": "KanaWorks_AI",
+  "author_url": "https://x.com/KanaWorks_AI",
+  "post_url": "https://x.com/KanaWorks_AI/status/2115984446604329400",
+  "title": "Pack of 90 anime-style skill effects",
+  "category": "games-interactive",
+  "tech_tags": [
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 6445,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "vib3coded-687084",
+  "seo_slug": "interactive-soft-body-jelly-marlin",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115752978946687084",
+  "title": "Interactive soft-body jelly marlin",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 5958,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "vib3coded-618696",
+  "seo_slug": "pool-scene-jelly-fish-earlier-projects",
+  "model": "opus-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115912302272618696",
+  "title": "Pool scene with jelly fish from earlier projects",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 5184,
+   "captured_at": "2026-10-31"
+  }
  }
 ]
